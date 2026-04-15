@@ -1,0 +1,2941 @@
+month_end,condition,demographics_type,demographics_values,rate_per_100000_visits
+2025-12,Anxiety Disorders,Age,12-17 years,1817
+2025-12,Anxiety Disorders,Age,18-34 years,2542
+2025-12,Anxiety Disorders,Age,35-64 years,2874
+2025-12,Anxiety Disorders,Age,65+ years,2657
+2025-12,Anxiety Disorders,Age,All,2338
+2025-11,Anxiety Disorders,Age,12-17 years,2159
+2025-11,Anxiety Disorders,Age,18-34 years,2861
+2025-11,Anxiety Disorders,Age,35-64 years,3108
+2025-11,Anxiety Disorders,Age,65+ years,2831
+2025-11,Anxiety Disorders,Age,All,2578
+2025-10,Anxiety Disorders,Age,12-17 years,2190
+2025-10,Anxiety Disorders,Age,18-34 years,2905
+2025-10,Anxiety Disorders,Age,35-64 years,3114
+2025-10,Anxiety Disorders,Age,65+ years,2822
+2025-10,Anxiety Disorders,Age,All,2614
+2025-09,Anxiety Disorders,Age,12-17 years,2137
+2025-09,Anxiety Disorders,Age,18-34 years,2879
+2025-09,Anxiety Disorders,Age,35-64 years,3066
+2025-09,Anxiety Disorders,Age,65+ years,2772
+2025-09,Anxiety Disorders,Age,All,2583
+2025-08,Anxiety Disorders,Age,12-17 years,2190
+2025-08,Anxiety Disorders,Age,18-34 years,2883
+2025-08,Anxiety Disorders,Age,35-64 years,3058
+2025-08,Anxiety Disorders,Age,65+ years,2731
+2025-08,Anxiety Disorders,Age,All,2604
+2025-07,Anxiety Disorders,Age,12-17 years,2347
+2025-07,Anxiety Disorders,Age,18-34 years,2910
+2025-07,Anxiety Disorders,Age,35-64 years,3067
+2025-07,Anxiety Disorders,Age,65+ years,2694
+2025-07,Anxiety Disorders,Age,All,2635
+2025-06,Anxiety Disorders,Age,12-17 years,2267
+2025-06,Anxiety Disorders,Age,18-34 years,2923
+2025-06,Anxiety Disorders,Age,35-64 years,3069
+2025-06,Anxiety Disorders,Age,65+ years,2705
+2025-06,Anxiety Disorders,Age,All,2616
+2025-05,Anxiety Disorders,Age,12-17 years,2197
+2025-05,Anxiety Disorders,Age,18-34 years,2893
+2025-05,Anxiety Disorders,Age,35-64 years,3055
+2025-05,Anxiety Disorders,Age,65+ years,2692
+2025-05,Anxiety Disorders,Age,All,2552
+2025-04,Anxiety Disorders,Age,12-17 years,2247
+2025-04,Anxiety Disorders,Age,18-34 years,2904
+2025-04,Anxiety Disorders,Age,35-64 years,3071
+2025-04,Anxiety Disorders,Age,65+ years,2713
+2025-04,Anxiety Disorders,Age,All,2564
+2025-03,Anxiety Disorders,Age,12-17 years,2222
+2025-03,Anxiety Disorders,Age,18-34 years,2877
+2025-03,Anxiety Disorders,Age,35-64 years,3059
+2025-03,Anxiety Disorders,Age,65+ years,2738
+2025-03,Anxiety Disorders,Age,All,2546
+2025-02,Anxiety Disorders,Age,12-17 years,1979
+2025-02,Anxiety Disorders,Age,18-34 years,2689
+2025-02,Anxiety Disorders,Age,35-64 years,2879
+2025-02,Anxiety Disorders,Age,65+ years,2632
+2025-02,Anxiety Disorders,Age,All,2390
+2025-01,Anxiety Disorders,Age,12-17 years,2001
+2025-01,Anxiety Disorders,Age,18-34 years,2578
+2025-01,Anxiety Disorders,Age,35-64 years,2809
+2025-01,Anxiety Disorders,Age,65+ years,2612
+2025-01,Anxiety Disorders,Age,All,2333
+2024-12,Anxiety Disorders,Age,12-17 years,1867
+2024-12,Anxiety Disorders,Age,18-34 years,2593
+2024-12,Anxiety Disorders,Age,35-64 years,2797
+2024-12,Anxiety Disorders,Age,65+ years,2539
+2024-12,Anxiety Disorders,Age,All,2273
+2024-11,Anxiety Disorders,Age,12-17 years,2066
+2024-11,Anxiety Disorders,Age,18-34 years,2840
+2024-11,Anxiety Disorders,Age,35-64 years,3001
+2024-11,Anxiety Disorders,Age,65+ years,2651
+2024-11,Anxiety Disorders,Age,All,2457
+2024-10,Anxiety Disorders,Age,12-17 years,2056
+2024-10,Anxiety Disorders,Age,18-34 years,2905
+2024-10,Anxiety Disorders,Age,35-64 years,2979
+2024-10,Anxiety Disorders,Age,65+ years,2615
+2024-10,Anxiety Disorders,Age,All,2482
+2024-09,Anxiety Disorders,Age,12-17 years,2107
+2024-09,Anxiety Disorders,Age,18-34 years,2897
+2024-09,Anxiety Disorders,Age,35-64 years,2950
+2024-09,Anxiety Disorders,Age,65+ years,2622
+2024-09,Anxiety Disorders,Age,All,2492
+2024-08,Anxiety Disorders,Age,12-17 years,2202
+2024-08,Anxiety Disorders,Age,18-34 years,2913
+2024-08,Anxiety Disorders,Age,35-64 years,2944
+2024-08,Anxiety Disorders,Age,65+ years,2565
+2024-08,Anxiety Disorders,Age,All,2522
+2024-07,Anxiety Disorders,Age,12-17 years,2243
+2024-07,Anxiety Disorders,Age,18-34 years,2900
+2024-07,Anxiety Disorders,Age,35-64 years,2922
+2024-07,Anxiety Disorders,Age,65+ years,2574
+2024-07,Anxiety Disorders,Age,All,2534
+2024-06,Anxiety Disorders,Age,12-17 years,2153
+2024-06,Anxiety Disorders,Age,18-34 years,2849
+2024-06,Anxiety Disorders,Age,35-64 years,2919
+2024-06,Anxiety Disorders,Age,65+ years,2551
+2024-06,Anxiety Disorders,Age,All,2484
+2024-05,Anxiety Disorders,Age,12-17 years,2119
+2024-05,Anxiety Disorders,Age,18-34 years,2822
+2024-05,Anxiety Disorders,Age,35-64 years,2914
+2024-05,Anxiety Disorders,Age,65+ years,2544
+2024-05,Anxiety Disorders,Age,All,2425
+2024-04,Anxiety Disorders,Age,12-17 years,2147
+2024-04,Anxiety Disorders,Age,18-34 years,2840
+2024-04,Anxiety Disorders,Age,35-64 years,2946
+2024-04,Anxiety Disorders,Age,65+ years,2597
+2024-04,Anxiety Disorders,Age,All,2448
+2024-03,Anxiety Disorders,Age,12-17 years,2108
+2024-03,Anxiety Disorders,Age,18-34 years,2866
+2024-03,Anxiety Disorders,Age,35-64 years,2960
+2024-03,Anxiety Disorders,Age,65+ years,2624
+2024-03,Anxiety Disorders,Age,All,2447
+2024-02,Anxiety Disorders,Age,12-17 years,2042
+2024-02,Anxiety Disorders,Age,18-34 years,2858
+2024-02,Anxiety Disorders,Age,35-64 years,2977
+2024-02,Anxiety Disorders,Age,65+ years,2604
+2024-02,Anxiety Disorders,Age,All,2437
+2024-01,Anxiety Disorders,Age,12-17 years,2167
+2024-01,Anxiety Disorders,Age,18-34 years,2758
+2024-01,Anxiety Disorders,Age,35-64 years,2905
+2024-01,Anxiety Disorders,Age,65+ years,2609
+2024-01,Anxiety Disorders,Age,All,2433
+2023-12,Anxiety Disorders,Age,12-17 years,1847
+2023-12,Anxiety Disorders,Age,18-34 years,2640
+2023-12,Anxiety Disorders,Age,35-64 years,2753
+2023-12,Anxiety Disorders,Age,65+ years,2493
+2023-12,Anxiety Disorders,Age,All,2227
+2023-11,Anxiety Disorders,Age,12-17 years,2118
+2023-11,Anxiety Disorders,Age,18-34 years,2810
+2023-11,Anxiety Disorders,Age,35-64 years,2904
+2023-11,Anxiety Disorders,Age,65+ years,2558
+2023-11,Anxiety Disorders,Age,All,2358
+2023-10,Anxiety Disorders,Age,12-17 years,2188
+2023-10,Anxiety Disorders,Age,18-34 years,2951
+2023-10,Anxiety Disorders,Age,35-64 years,2999
+2023-10,Anxiety Disorders,Age,65+ years,2590
+2023-10,Anxiety Disorders,Age,All,2474
+2023-09,Anxiety Disorders,Age,12-17 years,2097
+2023-09,Anxiety Disorders,Age,18-34 years,2936
+2023-09,Anxiety Disorders,Age,35-64 years,2971
+2023-09,Anxiety Disorders,Age,65+ years,2552
+2023-09,Anxiety Disorders,Age,All,2475
+2023-08,Anxiety Disorders,Age,12-17 years,2237
+2023-08,Anxiety Disorders,Age,18-34 years,2968
+2023-08,Anxiety Disorders,Age,35-64 years,2948
+2023-08,Anxiety Disorders,Age,65+ years,2557
+2023-08,Anxiety Disorders,Age,All,2529
+2023-07,Anxiety Disorders,Age,12-17 years,2314
+2023-07,Anxiety Disorders,Age,18-34 years,2981
+2023-07,Anxiety Disorders,Age,35-64 years,2985
+2023-07,Anxiety Disorders,Age,65+ years,2553
+2023-07,Anxiety Disorders,Age,All,2563
+2023-06,Anxiety Disorders,Age,12-17 years,2266
+2023-06,Anxiety Disorders,Age,18-34 years,2959
+2023-06,Anxiety Disorders,Age,35-64 years,2978
+2023-06,Anxiety Disorders,Age,65+ years,2579
+2023-06,Anxiety Disorders,Age,All,2529
+2023-05,Anxiety Disorders,Age,12-17 years,2309
+2023-05,Anxiety Disorders,Age,18-34 years,2956
+2023-05,Anxiety Disorders,Age,35-64 years,2993
+2023-05,Anxiety Disorders,Age,65+ years,2607
+2023-05,Anxiety Disorders,Age,All,2482
+2023-04,Anxiety Disorders,Age,12-17 years,2455
+2023-04,Anxiety Disorders,Age,18-34 years,3029
+2023-04,Anxiety Disorders,Age,35-64 years,3081
+2023-04,Anxiety Disorders,Age,65+ years,2655
+2023-04,Anxiety Disorders,Age,All,2548
+2023-03,Anxiety Disorders,Age,12-17 years,2541
+2023-03,Anxiety Disorders,Age,18-34 years,3061
+2023-03,Anxiety Disorders,Age,35-64 years,3113
+2023-03,Anxiety Disorders,Age,65+ years,2700
+2023-03,Anxiety Disorders,Age,All,2573
+2023-02,Anxiety Disorders,Age,12-17 years,2555
+2023-02,Anxiety Disorders,Age,18-34 years,3097
+2023-02,Anxiety Disorders,Age,35-64 years,3139
+2023-02,Anxiety Disorders,Age,65+ years,2697
+2023-02,Anxiety Disorders,Age,All,2596
+2023-01,Anxiety Disorders,Age,12-17 years,2691
+2023-01,Anxiety Disorders,Age,18-34 years,3160
+2023-01,Anxiety Disorders,Age,35-64 years,3139
+2023-01,Anxiety Disorders,Age,65+ years,2708
+2023-01,Anxiety Disorders,Age,All,2662
+2022-12,Anxiety Disorders,Age,12-17 years,2024
+2022-12,Anxiety Disorders,Age,18-34 years,2724
+2022-12,Anxiety Disorders,Age,35-64 years,2836
+2022-12,Anxiety Disorders,Age,65+ years,2553
+2022-12,Anxiety Disorders,Age,All,2303
+2022-11,Anxiety Disorders,Age,12-17 years,1879
+2022-11,Anxiety Disorders,Age,18-34 years,2681
+2022-11,Anxiety Disorders,Age,35-64 years,2840
+2022-11,Anxiety Disorders,Age,65+ years,2534
+2022-11,Anxiety Disorders,Age,All,2198
+2022-10,Anxiety Disorders,Age,12-17 years,2081
+2022-10,Anxiety Disorders,Age,18-34 years,2898
+2022-10,Anxiety Disorders,Age,35-64 years,2934
+2022-10,Anxiety Disorders,Age,65+ years,2579
+2022-10,Anxiety Disorders,Age,All,2342
+2022-09,Anxiety Disorders,Age,12-17 years,2240
+2022-09,Anxiety Disorders,Age,18-34 years,2967
+2022-09,Anxiety Disorders,Age,35-64 years,2967
+2022-09,Anxiety Disorders,Age,65+ years,2449
+2022-09,Anxiety Disorders,Age,All,2409
+2022-08,Anxiety Disorders,Age,12-17 years,2308
+2022-08,Anxiety Disorders,Age,18-34 years,3003
+2022-08,Anxiety Disorders,Age,35-64 years,2988
+2022-08,Anxiety Disorders,Age,65+ years,2399
+2022-08,Anxiety Disorders,Age,All,2484
+2022-07,Anxiety Disorders,Age,12-17 years,2402
+2022-07,Anxiety Disorders,Age,18-34 years,2987
+2022-07,Anxiety Disorders,Age,35-64 years,2972
+2022-07,Anxiety Disorders,Age,65+ years,2353
+2022-07,Anxiety Disorders,Age,All,2490
+2022-06,Anxiety Disorders,Age,12-17 years,2323
+2022-06,Anxiety Disorders,Age,18-34 years,2992
+2022-06,Anxiety Disorders,Age,35-64 years,3010
+2022-06,Anxiety Disorders,Age,65+ years,2371
+2022-06,Anxiety Disorders,Age,All,2476
+2022-05,Anxiety Disorders,Age,12-17 years,2402
+2022-05,Anxiety Disorders,Age,18-34 years,3057
+2022-05,Anxiety Disorders,Age,35-64 years,3059
+2022-05,Anxiety Disorders,Age,65+ years,2385
+2022-05,Anxiety Disorders,Age,All,2470
+2022-04,Anxiety Disorders,Age,12-17 years,2542
+2022-04,Anxiety Disorders,Age,18-34 years,3220
+2022-04,Anxiety Disorders,Age,35-64 years,3238
+2022-04,Anxiety Disorders,Age,65+ years,2506
+2022-04,Anxiety Disorders,Age,All,2629
+2022-03,Anxiety Disorders,Age,12-17 years,2873
+2022-03,Anxiety Disorders,Age,18-34 years,3369
+2022-03,Anxiety Disorders,Age,35-64 years,3345
+2022-03,Anxiety Disorders,Age,65+ years,2552
+2022-03,Anxiety Disorders,Age,All,2746
+2022-02,Anxiety Disorders,Age,12-17 years,3023
+2022-02,Anxiety Disorders,Age,18-34 years,3462
+2022-02,Anxiety Disorders,Age,35-64 years,3404
+2022-02,Anxiety Disorders,Age,65+ years,2592
+2022-02,Anxiety Disorders,Age,All,2844
+2022-01,Anxiety Disorders,Age,12-17 years,2385
+2022-01,Anxiety Disorders,Age,18-34 years,2820
+2022-01,Anxiety Disorders,Age,35-64 years,2982
+2022-01,Anxiety Disorders,Age,65+ years,2426
+2022-01,Anxiety Disorders,Age,All,2476
+2021-12,Anxiety Disorders,Age,12-17 years,2272
+2021-12,Anxiety Disorders,Age,18-34 years,2718
+2021-12,Anxiety Disorders,Age,35-64 years,2949
+2021-12,Anxiety Disorders,Age,65+ years,2420
+2021-12,Anxiety Disorders,Age,All,2378
+2021-11,Anxiety Disorders,Age,12-17 years,2577
+2021-11,Anxiety Disorders,Age,18-34 years,3145
+2021-11,Anxiety Disorders,Age,35-64 years,3227
+2021-11,Anxiety Disorders,Age,65+ years,2516
+2021-11,Anxiety Disorders,Age,All,2603
+2021-10,Anxiety Disorders,Age,12-17 years,2542
+2021-10,Anxiety Disorders,Age,18-34 years,3306
+2021-10,Anxiety Disorders,Age,35-64 years,3350
+2021-10,Anxiety Disorders,Age,65+ years,2587
+2021-10,Anxiety Disorders,Age,All,2714
+2021-09,Anxiety Disorders,Age,12-17 years,2351
+2021-09,Anxiety Disorders,Age,18-34 years,3225
+2021-09,Anxiety Disorders,Age,35-64 years,3307
+2021-09,Anxiety Disorders,Age,65+ years,2590
+2021-09,Anxiety Disorders,Age,All,2671
+2021-08,Anxiety Disorders,Age,12-17 years,2162
+2021-08,Anxiety Disorders,Age,18-34 years,3076
+2021-08,Anxiety Disorders,Age,35-64 years,3199
+2021-08,Anxiety Disorders,Age,65+ years,2540
+2021-08,Anxiety Disorders,Age,All,2606
+2021-07,Anxiety Disorders,Age,12-17 years,2429
+2021-07,Anxiety Disorders,Age,18-34 years,3216
+2021-07,Anxiety Disorders,Age,35-64 years,3350
+2021-07,Anxiety Disorders,Age,65+ years,2636
+2021-07,Anxiety Disorders,Age,All,2752
+2021-06,Anxiety Disorders,Age,12-17 years,2670
+2021-06,Anxiety Disorders,Age,18-34 years,3434
+2021-06,Anxiety Disorders,Age,35-64 years,3506
+2021-06,Anxiety Disorders,Age,65+ years,2663
+2021-06,Anxiety Disorders,Age,All,2888
+2021-05,Anxiety Disorders,Age,12-17 years,2916
+2021-05,Anxiety Disorders,Age,18-34 years,3538
+2021-05,Anxiety Disorders,Age,35-64 years,3553
+2021-05,Anxiety Disorders,Age,65+ years,2712
+2021-05,Anxiety Disorders,Age,All,2949
+2021-04,Anxiety Disorders,Age,12-17 years,2965
+2021-04,Anxiety Disorders,Age,18-34 years,3590
+2021-04,Anxiety Disorders,Age,35-64 years,3622
+2021-04,Anxiety Disorders,Age,65+ years,2752
+2021-04,Anxiety Disorders,Age,All,3034
+2021-03,Anxiety Disorders,Age,12-17 years,3327
+2021-03,Anxiety Disorders,Age,18-34 years,3802
+2021-03,Anxiety Disorders,Age,35-64 years,3834
+2021-03,Anxiety Disorders,Age,65+ years,2907
+2021-03,Anxiety Disorders,Age,All,3252
+2021-02,Anxiety Disorders,Age,12-17 years,3596
+2021-02,Anxiety Disorders,Age,18-34 years,3927
+2021-02,Anxiety Disorders,Age,35-64 years,3953
+2021-02,Anxiety Disorders,Age,65+ years,2948
+2021-02,Anxiety Disorders,Age,All,3387
+2021-01,Anxiety Disorders,Age,12-17 years,3448
+2021-01,Anxiety Disorders,Age,18-34 years,3815
+2021-01,Anxiety Disorders,Age,35-64 years,3865
+2021-01,Anxiety Disorders,Age,65+ years,2899
+2021-01,Anxiety Disorders,Age,All,3324
+2020-12,Anxiety Disorders,Age,12-17 years,3202
+2020-12,Anxiety Disorders,Age,18-34 years,3658
+2020-12,Anxiety Disorders,Age,35-64 years,3702
+2020-12,Anxiety Disorders,Age,65+ years,2792
+2020-12,Anxiety Disorders,Age,All,3192
+2020-11,Anxiety Disorders,Age,12-17 years,3086
+2020-11,Anxiety Disorders,Age,18-34 years,3639
+2020-11,Anxiety Disorders,Age,35-64 years,3741
+2020-11,Anxiety Disorders,Age,65+ years,2872
+2020-11,Anxiety Disorders,Age,All,3203
+2020-10,Anxiety Disorders,Age,12-17 years,3130
+2020-10,Anxiety Disorders,Age,18-34 years,3816
+2020-10,Anxiety Disorders,Age,35-64 years,4003
+2020-10,Anxiety Disorders,Age,65+ years,3031
+2020-10,Anxiety Disorders,Age,All,3382
+2020-09,Anxiety Disorders,Age,12-17 years,3124
+2020-09,Anxiety Disorders,Age,18-34 years,4068
+2020-09,Anxiety Disorders,Age,35-64 years,4235
+2020-09,Anxiety Disorders,Age,65+ years,3189
+2020-09,Anxiety Disorders,Age,All,3570
+2020-08,Anxiety Disorders,Age,12-17 years,3022
+2020-08,Anxiety Disorders,Age,18-34 years,4033
+2020-08,Anxiety Disorders,Age,35-64 years,4191
+2020-08,Anxiety Disorders,Age,65+ years,3204
+2020-08,Anxiety Disorders,Age,All,3567
+2020-07,Anxiety Disorders,Age,12-17 years,2872
+2020-07,Anxiety Disorders,Age,18-34 years,3940
+2020-07,Anxiety Disorders,Age,35-64 years,4084
+2020-07,Anxiety Disorders,Age,65+ years,3094
+2020-07,Anxiety Disorders,Age,All,3485
+2020-06,Anxiety Disorders,Age,12-17 years,3041
+2020-06,Anxiety Disorders,Age,18-34 years,4059
+2020-06,Anxiety Disorders,Age,35-64 years,4195
+2020-06,Anxiety Disorders,Age,65+ years,3129
+2020-06,Anxiety Disorders,Age,All,3576
+2020-05,Anxiety Disorders,Age,12-17 years,3422
+2020-05,Anxiety Disorders,Age,18-34 years,4392
+2020-05,Anxiety Disorders,Age,35-64 years,4435
+2020-05,Anxiety Disorders,Age,65+ years,3180
+2020-05,Anxiety Disorders,Age,All,3794
+2020-04,Anxiety Disorders,Age,12-17 years,3585
+2020-04,Anxiety Disorders,Age,18-34 years,4483
+2020-04,Anxiety Disorders,Age,35-64 years,4381
+2020-04,Anxiety Disorders,Age,65+ years,3102
+2020-04,Anxiety Disorders,Age,All,3813
+2020-03,Anxiety Disorders,Age,12-17 years,2525
+2020-03,Anxiety Disorders,Age,18-34 years,3484
+2020-03,Anxiety Disorders,Age,35-64 years,3686
+2020-03,Anxiety Disorders,Age,65+ years,2861
+2020-03,Anxiety Disorders,Age,All,3008
+2020-02,Anxiety Disorders,Age,12-17 years,2345
+2020-02,Anxiety Disorders,Age,18-34 years,3397
+2020-02,Anxiety Disorders,Age,35-64 years,3702
+2020-02,Anxiety Disorders,Age,65+ years,2877
+2020-02,Anxiety Disorders,Age,All,2873
+2020-01,Anxiety Disorders,Age,12-17 years,2341
+2020-01,Anxiety Disorders,Age,18-34 years,3259
+2020-01,Anxiety Disorders,Age,35-64 years,3620
+2020-01,Anxiety Disorders,Age,65+ years,2736
+2020-01,Anxiety Disorders,Age,All,2787
+2019-12,Anxiety Disorders,Age,12-17 years,2222
+2019-12,Anxiety Disorders,Age,18-34 years,3208
+2019-12,Anxiety Disorders,Age,35-64 years,3550
+2019-12,Anxiety Disorders,Age,65+ years,2665
+2019-12,Anxiety Disorders,Age,All,2678
+2019-11,Anxiety Disorders,Age,12-17 years,2307
+2019-11,Anxiety Disorders,Age,18-34 years,3360
+2019-11,Anxiety Disorders,Age,35-64 years,3638
+2019-11,Anxiety Disorders,Age,65+ years,2689
+2019-11,Anxiety Disorders,Age,All,2786
+2019-10,Anxiety Disorders,Age,12-17 years,2350
+2019-10,Anxiety Disorders,Age,18-34 years,3434
+2019-10,Anxiety Disorders,Age,35-64 years,3644
+2019-10,Anxiety Disorders,Age,65+ years,2742
+2019-10,Anxiety Disorders,Age,All,2886
+2019-09,Anxiety Disorders,Age,12-17 years,2380
+2019-09,Anxiety Disorders,Age,18-34 years,3462
+2019-09,Anxiety Disorders,Age,35-64 years,3653
+2019-09,Anxiety Disorders,Age,65+ years,2747
+2019-09,Anxiety Disorders,Age,All,2919
+2019-08,Anxiety Disorders,Age,12-17 years,2371
+2019-08,Anxiety Disorders,Age,18-34 years,3497
+2019-08,Anxiety Disorders,Age,35-64 years,3696
+2019-08,Anxiety Disorders,Age,65+ years,2747
+2019-08,Anxiety Disorders,Age,All,2990
+2019-07,Anxiety Disorders,Age,12-17 years,2296
+2019-07,Anxiety Disorders,Age,18-34 years,3370
+2019-07,Anxiety Disorders,Age,35-64 years,3609
+2019-07,Anxiety Disorders,Age,65+ years,2683
+2019-07,Anxiety Disorders,Age,All,2921
+2019-06,Anxiety Disorders,Age,12-17 years,2057
+2019-06,Anxiety Disorders,Age,18-34 years,3255
+2019-06,Anxiety Disorders,Age,35-64 years,3531
+2019-06,Anxiety Disorders,Age,65+ years,2645
+2019-06,Anxiety Disorders,Age,All,2809
+2019-05,Anxiety Disorders,Age,12-17 years,2228
+2019-05,Anxiety Disorders,Age,18-34 years,3287
+2019-05,Anxiety Disorders,Age,35-64 years,3522
+2019-05,Anxiety Disorders,Age,65+ years,2602
+2019-05,Anxiety Disorders,Age,All,2768
+2019-04,Anxiety Disorders,Age,12-17 years,2267
+2019-04,Anxiety Disorders,Age,18-34 years,3266
+2019-04,Anxiety Disorders,Age,35-64 years,3520
+2019-04,Anxiety Disorders,Age,65+ years,2593
+2019-04,Anxiety Disorders,Age,All,2749
+2019-03,Anxiety Disorders,Age,12-17 years,2158
+2019-03,Anxiety Disorders,Age,18-34 years,3190
+2019-03,Anxiety Disorders,Age,35-64 years,3484
+2019-03,Anxiety Disorders,Age,65+ years,2563
+2019-03,Anxiety Disorders,Age,All,2677
+2019-02,Anxiety Disorders,Age,12-17 years,2112
+2019-02,Anxiety Disorders,Age,18-34 years,3097
+2019-02,Anxiety Disorders,Age,35-64 years,3345
+2019-02,Anxiety Disorders,Age,65+ years,2496
+2019-02,Anxiety Disorders,Age,All,2581
+2019-01,Anxiety Disorders,Age,12-17 years,2115
+2019-01,Anxiety Disorders,Age,18-34 years,2941
+2019-01,Anxiety Disorders,Age,35-64 years,3268
+2019-01,Anxiety Disorders,Age,65+ years,2408
+2019-01,Anxiety Disorders,Age,All,2528
+2025-12,Any Mental Health,Age,12-17 years,6169
+2025-12,Any Mental Health,Age,18-34 years,5365
+2025-12,Any Mental Health,Age,35-64 years,5750
+2025-12,Any Mental Health,Age,65+ years,4536
+2025-12,Any Mental Health,Age,All,4707
+2025-11,Any Mental Health,Age,12-17 years,7439
+2025-11,Any Mental Health,Age,18-34 years,5951
+2025-11,Any Mental Health,Age,35-64 years,6190
+2025-11,Any Mental Health,Age,65+ years,4836
+2025-11,Any Mental Health,Age,All,5204
+2025-10,Any Mental Health,Age,12-17 years,7479
+2025-10,Any Mental Health,Age,18-34 years,6022
+2025-10,Any Mental Health,Age,35-64 years,6189
+2025-10,Any Mental Health,Age,65+ years,4827
+2025-10,Any Mental Health,Age,All,5284
+2025-09,Any Mental Health,Age,12-17 years,7020
+2025-09,Any Mental Health,Age,18-34 years,5957
+2025-09,Any Mental Health,Age,35-64 years,6063
+2025-09,Any Mental Health,Age,65+ years,4747
+2025-09,Any Mental Health,Age,All,5201
+2025-08,Any Mental Health,Age,12-17 years,6530
+2025-08,Any Mental Health,Age,18-34 years,5954
+2025-08,Any Mental Health,Age,35-64 years,6056
+2025-08,Any Mental Health,Age,65+ years,4681
+2025-08,Any Mental Health,Age,All,5169
+2025-07,Any Mental Health,Age,12-17 years,7013
+2025-07,Any Mental Health,Age,18-34 years,6073
+2025-07,Any Mental Health,Age,35-64 years,6118
+2025-07,Any Mental Health,Age,65+ years,4619
+2025-07,Any Mental Health,Age,All,5249
+2025-06,Any Mental Health,Age,12-17 years,7108
+2025-06,Any Mental Health,Age,18-34 years,6132
+2025-06,Any Mental Health,Age,35-64 years,6147
+2025-06,Any Mental Health,Age,65+ years,4645
+2025-06,Any Mental Health,Age,All,5242
+2025-05,Any Mental Health,Age,12-17 years,7408
+2025-05,Any Mental Health,Age,18-34 years,6066
+2025-05,Any Mental Health,Age,35-64 years,6134
+2025-05,Any Mental Health,Age,65+ years,4644
+2025-05,Any Mental Health,Age,All,5190
+2025-04,Any Mental Health,Age,12-17 years,7389
+2025-04,Any Mental Health,Age,18-34 years,6099
+2025-04,Any Mental Health,Age,35-64 years,6159
+2025-04,Any Mental Health,Age,65+ years,4686
+2025-04,Any Mental Health,Age,All,5219
+2025-03,Any Mental Health,Age,12-17 years,7364
+2025-03,Any Mental Health,Age,18-34 years,6022
+2025-03,Any Mental Health,Age,35-64 years,6127
+2025-03,Any Mental Health,Age,65+ years,4741
+2025-03,Any Mental Health,Age,All,5177
+2025-02,Any Mental Health,Age,12-17 years,6512
+2025-02,Any Mental Health,Age,18-34 years,5699
+2025-02,Any Mental Health,Age,35-64 years,5812
+2025-02,Any Mental Health,Age,65+ years,4571
+2025-02,Any Mental Health,Age,All,4884
+2025-01,Any Mental Health,Age,12-17 years,6470
+2025-01,Any Mental Health,Age,18-34 years,5521
+2025-01,Any Mental Health,Age,35-64 years,5718
+2025-01,Any Mental Health,Age,65+ years,4548
+2025-01,Any Mental Health,Age,All,4780
+2024-12,Any Mental Health,Age,12-17 years,6014
+2024-12,Any Mental Health,Age,18-34 years,5446
+2024-12,Any Mental Health,Age,35-64 years,5656
+2024-12,Any Mental Health,Age,65+ years,4415
+2024-12,Any Mental Health,Age,All,4613
+2024-11,Any Mental Health,Age,12-17 years,6798
+2024-11,Any Mental Health,Age,18-34 years,5947
+2024-11,Any Mental Health,Age,35-64 years,6086
+2024-11,Any Mental Health,Age,65+ years,4586
+2024-11,Any Mental Health,Age,All,5023
+2024-10,Any Mental Health,Age,12-17 years,6892
+2024-10,Any Mental Health,Age,18-34 years,6032
+2024-10,Any Mental Health,Age,35-64 years,6023
+2024-10,Any Mental Health,Age,65+ years,4545
+2024-10,Any Mental Health,Age,All,5087
+2024-09,Any Mental Health,Age,12-17 years,6710
+2024-09,Any Mental Health,Age,18-34 years,6033
+2024-09,Any Mental Health,Age,35-64 years,5969
+2024-09,Any Mental Health,Age,65+ years,4544
+2024-09,Any Mental Health,Age,All,5090
+2024-08,Any Mental Health,Age,12-17 years,6295
+2024-08,Any Mental Health,Age,18-34 years,6053
+2024-08,Any Mental Health,Age,35-64 years,5983
+2024-08,Any Mental Health,Age,65+ years,4473
+2024-08,Any Mental Health,Age,All,5094
+2024-07,Any Mental Health,Age,12-17 years,6559
+2024-07,Any Mental Health,Age,18-34 years,6050
+2024-07,Any Mental Health,Age,35-64 years,5949
+2024-07,Any Mental Health,Age,65+ years,4451
+2024-07,Any Mental Health,Age,All,5110
+2024-06,Any Mental Health,Age,12-17 years,6519
+2024-06,Any Mental Health,Age,18-34 years,5998
+2024-06,Any Mental Health,Age,35-64 years,5947
+2024-06,Any Mental Health,Age,65+ years,4437
+2024-06,Any Mental Health,Age,All,5047
+2024-05,Any Mental Health,Age,12-17 years,7072
+2024-05,Any Mental Health,Age,18-34 years,5999
+2024-05,Any Mental Health,Age,35-64 years,5974
+2024-05,Any Mental Health,Age,65+ years,4437
+2024-05,Any Mental Health,Age,All,5024
+2024-04,Any Mental Health,Age,12-17 years,7256
+2024-04,Any Mental Health,Age,18-34 years,6112
+2024-04,Any Mental Health,Age,35-64 years,6053
+2024-04,Any Mental Health,Age,65+ years,4533
+2024-04,Any Mental Health,Age,All,5106
+2024-03,Any Mental Health,Age,12-17 years,7020
+2024-03,Any Mental Health,Age,18-34 years,6070
+2024-03,Any Mental Health,Age,35-64 years,6068
+2024-03,Any Mental Health,Age,65+ years,4551
+2024-03,Any Mental Health,Age,All,5057
+2024-02,Any Mental Health,Age,12-17 years,6885
+2024-02,Any Mental Health,Age,18-34 years,6052
+2024-02,Any Mental Health,Age,35-64 years,6049
+2024-02,Any Mental Health,Age,65+ years,4556
+2024-02,Any Mental Health,Age,All,5040
+2024-01,Any Mental Health,Age,12-17 years,7067
+2024-01,Any Mental Health,Age,18-34 years,5929
+2024-01,Any Mental Health,Age,35-64 years,5920
+2024-01,Any Mental Health,Age,65+ years,4588
+2024-01,Any Mental Health,Age,All,5027
+2023-12,Any Mental Health,Age,12-17 years,6137
+2023-12,Any Mental Health,Age,18-34 years,5604
+2023-12,Any Mental Health,Age,35-64 years,5628
+2023-12,Any Mental Health,Age,65+ years,4375
+2023-12,Any Mental Health,Age,All,4583
+2023-11,Any Mental Health,Age,12-17 years,7148
+2023-11,Any Mental Health,Age,18-34 years,5988
+2023-11,Any Mental Health,Age,35-64 years,5975
+2023-11,Any Mental Health,Age,65+ years,4477
+2023-11,Any Mental Health,Age,All,4912
+2023-10,Any Mental Health,Age,12-17 years,7229
+2023-10,Any Mental Health,Age,18-34 years,6230
+2023-10,Any Mental Health,Age,35-64 years,6128
+2023-10,Any Mental Health,Age,65+ years,4548
+2023-10,Any Mental Health,Age,All,5137
+2023-09,Any Mental Health,Age,12-17 years,6722
+2023-09,Any Mental Health,Age,18-34 years,6161
+2023-09,Any Mental Health,Age,35-64 years,6052
+2023-09,Any Mental Health,Age,65+ years,4460
+2023-09,Any Mental Health,Age,All,5104
+2023-08,Any Mental Health,Age,12-17 years,6592
+2023-08,Any Mental Health,Age,18-34 years,6225
+2023-08,Any Mental Health,Age,35-64 years,6045
+2023-08,Any Mental Health,Age,65+ years,4480
+2023-08,Any Mental Health,Age,All,5173
+2023-07,Any Mental Health,Age,12-17 years,6836
+2023-07,Any Mental Health,Age,18-34 years,6304
+2023-07,Any Mental Health,Age,35-64 years,6129
+2023-07,Any Mental Health,Age,65+ years,4478
+2023-07,Any Mental Health,Age,All,5244
+2023-06,Any Mental Health,Age,12-17 years,7117
+2023-06,Any Mental Health,Age,18-34 years,6308
+2023-06,Any Mental Health,Age,35-64 years,6174
+2023-06,Any Mental Health,Age,65+ years,4539
+2023-06,Any Mental Health,Age,All,5234
+2023-05,Any Mental Health,Age,12-17 years,7951
+2023-05,Any Mental Health,Age,18-34 years,6364
+2023-05,Any Mental Health,Age,35-64 years,6195
+2023-05,Any Mental Health,Age,65+ years,4555
+2023-05,Any Mental Health,Age,All,5224
+2023-04,Any Mental Health,Age,12-17 years,8278
+2023-04,Any Mental Health,Age,18-34 years,6520
+2023-04,Any Mental Health,Age,35-64 years,6338
+2023-04,Any Mental Health,Age,65+ years,4665
+2023-04,Any Mental Health,Age,All,5352
+2023-03,Any Mental Health,Age,12-17 years,8951
+2023-03,Any Mental Health,Age,18-34 years,6554
+2023-03,Any Mental Health,Age,35-64 years,6394
+2023-03,Any Mental Health,Age,65+ years,4714
+2023-03,Any Mental Health,Age,All,5419
+2023-02,Any Mental Health,Age,12-17 years,8955
+2023-02,Any Mental Health,Age,18-34 years,6655
+2023-02,Any Mental Health,Age,35-64 years,6410
+2023-02,Any Mental Health,Age,65+ years,4729
+2023-02,Any Mental Health,Age,All,5462
+2023-01,Any Mental Health,Age,12-17 years,8982
+2023-01,Any Mental Health,Age,18-34 years,6679
+2023-01,Any Mental Health,Age,35-64 years,6379
+2023-01,Any Mental Health,Age,65+ years,4715
+2023-01,Any Mental Health,Age,All,5516
+2022-12,Any Mental Health,Age,12-17 years,6843
+2022-12,Any Mental Health,Age,18-34 years,5895
+2022-12,Any Mental Health,Age,35-64 years,5892
+2022-12,Any Mental Health,Age,65+ years,4451
+2022-12,Any Mental Health,Age,All,4810
+2022-11,Any Mental Health,Age,12-17 years,6713
+2022-11,Any Mental Health,Age,18-34 years,5820
+2022-11,Any Mental Health,Age,35-64 years,5872
+2022-11,Any Mental Health,Age,65+ years,4456
+2022-11,Any Mental Health,Age,All,4655
+2022-10,Any Mental Health,Age,12-17 years,7194
+2022-10,Any Mental Health,Age,18-34 years,6286
+2022-10,Any Mental Health,Age,35-64 years,6091
+2022-10,Any Mental Health,Age,65+ years,4535
+2022-10,Any Mental Health,Age,All,4965
+2022-09,Any Mental Health,Age,12-17 years,7354
+2022-09,Any Mental Health,Age,18-34 years,6377
+2022-09,Any Mental Health,Age,35-64 years,6117
+2022-09,Any Mental Health,Age,65+ years,4354
+2022-09,Any Mental Health,Age,All,5087
+2022-08,Any Mental Health,Age,12-17 years,6749
+2022-08,Any Mental Health,Age,18-34 years,6347
+2022-08,Any Mental Health,Age,35-64 years,6142
+2022-08,Any Mental Health,Age,65+ years,4334
+2022-08,Any Mental Health,Age,All,5150
+2022-07,Any Mental Health,Age,12-17 years,6954
+2022-07,Any Mental Health,Age,18-34 years,6338
+2022-07,Any Mental Health,Age,35-64 years,6118
+2022-07,Any Mental Health,Age,65+ years,4259
+2022-07,Any Mental Health,Age,All,5152
+2022-06,Any Mental Health,Age,12-17 years,7343
+2022-06,Any Mental Health,Age,18-34 years,6402
+2022-06,Any Mental Health,Age,35-64 years,6235
+2022-06,Any Mental Health,Age,65+ years,4328
+2022-06,Any Mental Health,Age,All,5193
+2022-05,Any Mental Health,Age,12-17 years,8214
+2022-05,Any Mental Health,Age,18-34 years,6553
+2022-05,Any Mental Health,Age,35-64 years,6326
+2022-05,Any Mental Health,Age,65+ years,4341
+2022-05,Any Mental Health,Age,All,5263
+2022-04,Any Mental Health,Age,12-17 years,8672
+2022-04,Any Mental Health,Age,18-34 years,6801
+2022-04,Any Mental Health,Age,35-64 years,6609
+2022-04,Any Mental Health,Age,65+ years,4539
+2022-04,Any Mental Health,Age,All,5541
+2022-03,Any Mental Health,Age,12-17 years,9899
+2022-03,Any Mental Health,Age,18-34 years,7146
+2022-03,Any Mental Health,Age,35-64 years,6833
+2022-03,Any Mental Health,Age,65+ years,4590
+2022-03,Any Mental Health,Age,All,5824
+2022-02,Any Mental Health,Age,12-17 years,10463
+2022-02,Any Mental Health,Age,18-34 years,7454
+2022-02,Any Mental Health,Age,35-64 years,6961
+2022-02,Any Mental Health,Age,65+ years,4658
+2022-02,Any Mental Health,Age,All,6041
+2022-01,Any Mental Health,Age,12-17 years,7971
+2022-01,Any Mental Health,Age,18-34 years,6067
+2022-01,Any Mental Health,Age,35-64 years,6046
+2022-01,Any Mental Health,Age,65+ years,4418
+2022-01,Any Mental Health,Age,All,5196
+2021-12,Any Mental Health,Age,12-17 years,7904
+2021-12,Any Mental Health,Age,18-34 years,5750
+2021-12,Any Mental Health,Age,35-64 years,5908
+2021-12,Any Mental Health,Age,65+ years,4332
+2021-12,Any Mental Health,Age,All,4937
+2021-11,Any Mental Health,Age,12-17 years,9054
+2021-11,Any Mental Health,Age,18-34 years,6633
+2021-11,Any Mental Health,Age,35-64 years,6448
+2021-11,Any Mental Health,Age,65+ years,4502
+2021-11,Any Mental Health,Age,All,5430
+2021-10,Any Mental Health,Age,12-17 years,8660
+2021-10,Any Mental Health,Age,18-34 years,6891
+2021-10,Any Mental Health,Age,35-64 years,6684
+2021-10,Any Mental Health,Age,65+ years,4612
+2021-10,Any Mental Health,Age,All,5627
+2021-09,Any Mental Health,Age,12-17 years,7511
+2021-09,Any Mental Health,Age,18-34 years,6591
+2021-09,Any Mental Health,Age,35-64 years,6528
+2021-09,Any Mental Health,Age,65+ years,4638
+2021-09,Any Mental Health,Age,All,5452
+2021-08,Any Mental Health,Age,12-17 years,6303
+2021-08,Any Mental Health,Age,18-34 years,6236
+2021-08,Any Mental Health,Age,35-64 years,6286
+2021-08,Any Mental Health,Age,65+ years,4583
+2021-08,Any Mental Health,Age,All,5228
+2021-07,Any Mental Health,Age,12-17 years,7180
+2021-07,Any Mental Health,Age,18-34 years,6581
+2021-07,Any Mental Health,Age,35-64 years,6615
+2021-07,Any Mental Health,Age,65+ years,4705
+2021-07,Any Mental Health,Age,All,5521
+2021-06,Any Mental Health,Age,12-17 years,8219
+2021-06,Any Mental Health,Age,18-34 years,7059
+2021-06,Any Mental Health,Age,35-64 years,6951
+2021-06,Any Mental Health,Age,65+ years,4810
+2021-06,Any Mental Health,Age,All,5854
+2021-05,Any Mental Health,Age,12-17 years,9717
+2021-05,Any Mental Health,Age,18-34 years,7306
+2021-05,Any Mental Health,Age,35-64 years,7068
+2021-05,Any Mental Health,Age,65+ years,4876
+2021-05,Any Mental Health,Age,All,6068
+2021-04,Any Mental Health,Age,12-17 years,9894
+2021-04,Any Mental Health,Age,18-34 years,7341
+2021-04,Any Mental Health,Age,35-64 years,7124
+2021-04,Any Mental Health,Age,65+ years,4939
+2021-04,Any Mental Health,Age,All,6194
+2021-03,Any Mental Health,Age,12-17 years,11115
+2021-03,Any Mental Health,Age,18-34 years,7851
+2021-03,Any Mental Health,Age,35-64 years,7611
+2021-03,Any Mental Health,Age,65+ years,5228
+2021-03,Any Mental Health,Age,All,6678
+2021-02,Any Mental Health,Age,12-17 years,11789
+2021-02,Any Mental Health,Age,18-34 years,8141
+2021-02,Any Mental Health,Age,35-64 years,7778
+2021-02,Any Mental Health,Age,65+ years,5302
+2021-02,Any Mental Health,Age,All,6918
+2021-01,Any Mental Health,Age,12-17 years,10969
+2021-01,Any Mental Health,Age,18-34 years,7753
+2021-01,Any Mental Health,Age,35-64 years,7614
+2021-01,Any Mental Health,Age,65+ years,5269
+2021-01,Any Mental Health,Age,All,6732
+2020-12,Any Mental Health,Age,12-17 years,10329
+2020-12,Any Mental Health,Age,18-34 years,7515
+2020-12,Any Mental Health,Age,35-64 years,7337
+2020-12,Any Mental Health,Age,65+ years,5114
+2020-12,Any Mental Health,Age,All,6488
+2020-11,Any Mental Health,Age,12-17 years,10341
+2020-11,Any Mental Health,Age,18-34 years,7451
+2020-11,Any Mental Health,Age,35-64 years,7421
+2020-11,Any Mental Health,Age,65+ years,5225
+2020-11,Any Mental Health,Age,All,6536
+2020-10,Any Mental Health,Age,12-17 years,10225
+2020-10,Any Mental Health,Age,18-34 years,7839
+2020-10,Any Mental Health,Age,35-64 years,7890
+2020-10,Any Mental Health,Age,65+ years,5460
+2020-10,Any Mental Health,Age,All,6878
+2020-09,Any Mental Health,Age,12-17 years,9904
+2020-09,Any Mental Health,Age,18-34 years,8178
+2020-09,Any Mental Health,Age,35-64 years,8308
+2020-09,Any Mental Health,Age,65+ years,5692
+2020-09,Any Mental Health,Age,All,7162
+2020-08,Any Mental Health,Age,12-17 years,8995
+2020-08,Any Mental Health,Age,18-34 years,8160
+2020-08,Any Mental Health,Age,35-64 years,8295
+2020-08,Any Mental Health,Age,65+ years,5772
+2020-08,Any Mental Health,Age,All,7154
+2020-07,Any Mental Health,Age,12-17 years,8547
+2020-07,Any Mental Health,Age,18-34 years,7939
+2020-07,Any Mental Health,Age,35-64 years,8072
+2020-07,Any Mental Health,Age,65+ years,5645
+2020-07,Any Mental Health,Age,All,6988
+2020-06,Any Mental Health,Age,12-17 years,8999
+2020-06,Any Mental Health,Age,18-34 years,8219
+2020-06,Any Mental Health,Age,35-64 years,8356
+2020-06,Any Mental Health,Age,65+ years,5690
+2020-06,Any Mental Health,Age,All,7197
+2020-05,Any Mental Health,Age,12-17 years,10595
+2020-05,Any Mental Health,Age,18-34 years,9033
+2020-05,Any Mental Health,Age,35-64 years,8883
+2020-05,Any Mental Health,Age,65+ years,5849
+2020-05,Any Mental Health,Age,All,7718
+2020-04,Any Mental Health,Age,12-17 years,11827
+2020-04,Any Mental Health,Age,18-34 years,9208
+2020-04,Any Mental Health,Age,35-64 years,8871
+2020-04,Any Mental Health,Age,65+ years,5761
+2020-04,Any Mental Health,Age,All,7815
+2020-03,Any Mental Health,Age,12-17 years,9053
+2020-03,Any Mental Health,Age,18-34 years,7173
+2020-03,Any Mental Health,Age,35-64 years,7510
+2020-03,Any Mental Health,Age,65+ years,5281
+2020-03,Any Mental Health,Age,All,6274
+2020-02,Any Mental Health,Age,12-17 years,8246
+2020-02,Any Mental Health,Age,18-34 years,7001
+2020-02,Any Mental Health,Age,35-64 years,7414
+2020-02,Any Mental Health,Age,65+ years,5245
+2020-02,Any Mental Health,Age,All,5971
+2020-01,Any Mental Health,Age,12-17 years,8003
+2020-01,Any Mental Health,Age,18-34 years,6780
+2020-01,Any Mental Health,Age,35-64 years,7305
+2020-01,Any Mental Health,Age,65+ years,5041
+2020-01,Any Mental Health,Age,All,5817
+2019-12,Any Mental Health,Age,12-17 years,7469
+2019-12,Any Mental Health,Age,18-34 years,6640
+2019-12,Any Mental Health,Age,35-64 years,7224
+2019-12,Any Mental Health,Age,65+ years,4908
+2019-12,Any Mental Health,Age,All,5576
+2019-11,Any Mental Health,Age,12-17 years,8200
+2019-11,Any Mental Health,Age,18-34 years,7048
+2019-11,Any Mental Health,Age,35-64 years,7436
+2019-11,Any Mental Health,Age,65+ years,4935
+2019-11,Any Mental Health,Age,All,5881
+2019-10,Any Mental Health,Age,12-17 years,8356
+2019-10,Any Mental Health,Age,18-34 years,7150
+2019-10,Any Mental Health,Age,35-64 years,7477
+2019-10,Any Mental Health,Age,65+ years,5035
+2019-10,Any Mental Health,Age,All,6109
+2019-09,Any Mental Health,Age,12-17 years,7537
+2019-09,Any Mental Health,Age,18-34 years,7121
+2019-09,Any Mental Health,Age,35-64 years,7430
+2019-09,Any Mental Health,Age,65+ years,5038
+2019-09,Any Mental Health,Age,All,6077
+2019-08,Any Mental Health,Age,12-17 years,6982
+2019-08,Any Mental Health,Age,18-34 years,7142
+2019-08,Any Mental Health,Age,35-64 years,7538
+2019-08,Any Mental Health,Age,65+ years,5093
+2019-08,Any Mental Health,Age,All,6153
+2019-07,Any Mental Health,Age,12-17 years,6773
+2019-07,Any Mental Health,Age,18-34 years,6960
+2019-07,Any Mental Health,Age,35-64 years,7359
+2019-07,Any Mental Health,Age,65+ years,4972
+2019-07,Any Mental Health,Age,All,6009
+2019-06,Any Mental Health,Age,12-17 years,6941
+2019-06,Any Mental Health,Age,18-34 years,6784
+2019-06,Any Mental Health,Age,35-64 years,7251
+2019-06,Any Mental Health,Age,65+ years,4867
+2019-06,Any Mental Health,Age,All,5849
+2019-05,Any Mental Health,Age,12-17 years,8041
+2019-05,Any Mental Health,Age,18-34 years,6867
+2019-05,Any Mental Health,Age,35-64 years,7238
+2019-05,Any Mental Health,Age,65+ years,4824
+2019-05,Any Mental Health,Age,All,5870
+2019-04,Any Mental Health,Age,12-17 years,8128
+2019-04,Any Mental Health,Age,18-34 years,6895
+2019-04,Any Mental Health,Age,35-64 years,7262
+2019-04,Any Mental Health,Age,65+ years,4791
+2019-04,Any Mental Health,Age,All,5861
+2019-03,Any Mental Health,Age,12-17 years,7846
+2019-03,Any Mental Health,Age,18-34 years,6704
+2019-03,Any Mental Health,Age,35-64 years,7090
+2019-03,Any Mental Health,Age,65+ years,4703
+2019-03,Any Mental Health,Age,All,5659
+2019-02,Any Mental Health,Age,12-17 years,7677
+2019-02,Any Mental Health,Age,18-34 years,6584
+2019-02,Any Mental Health,Age,35-64 years,6872
+2019-02,Any Mental Health,Age,65+ years,4630
+2019-02,Any Mental Health,Age,All,5518
+2019-01,Any Mental Health,Age,12-17 years,7645
+2019-01,Any Mental Health,Age,18-34 years,6286
+2019-01,Any Mental Health,Age,35-64 years,6711
+2019-01,Any Mental Health,Age,65+ years,4437
+2019-01,Any Mental Health,Age,All,5383
+2025-12,Bipolar Disorders,Age,12-17 years,162
+2025-12,Bipolar Disorders,Age,18-34 years,501
+2025-12,Bipolar Disorders,Age,35-64 years,637
+2025-12,Bipolar Disorders,Age,65+ years,270
+2025-12,Bipolar Disorders,Age,All,408
+2025-11,Bipolar Disorders,Age,12-17 years,198
+2025-11,Bipolar Disorders,Age,18-34 years,554
+2025-11,Bipolar Disorders,Age,35-64 years,696
+2025-11,Bipolar Disorders,Age,65+ years,286
+2025-11,Bipolar Disorders,Age,All,452
+2025-10,Bipolar Disorders,Age,12-17 years,192
+2025-10,Bipolar Disorders,Age,18-34 years,562
+2025-10,Bipolar Disorders,Age,35-64 years,701
+2025-10,Bipolar Disorders,Age,65+ years,291
+2025-10,Bipolar Disorders,Age,All,461
+2025-09,Bipolar Disorders,Age,12-17 years,177
+2025-09,Bipolar Disorders,Age,18-34 years,561
+2025-09,Bipolar Disorders,Age,35-64 years,678
+2025-09,Bipolar Disorders,Age,65+ years,290
+2025-09,Bipolar Disorders,Age,All,454
+2025-08,Bipolar Disorders,Age,12-17 years,194
+2025-08,Bipolar Disorders,Age,18-34 years,561
+2025-08,Bipolar Disorders,Age,35-64 years,682
+2025-08,Bipolar Disorders,Age,65+ years,281
+2025-08,Bipolar Disorders,Age,All,461
+2025-07,Bipolar Disorders,Age,12-17 years,220
+2025-07,Bipolar Disorders,Age,18-34 years,577
+2025-07,Bipolar Disorders,Age,35-64 years,685
+2025-07,Bipolar Disorders,Age,65+ years,275
+2025-07,Bipolar Disorders,Age,All,471
+2025-06,Bipolar Disorders,Age,12-17 years,212
+2025-06,Bipolar Disorders,Age,18-34 years,576
+2025-06,Bipolar Disorders,Age,35-64 years,687
+2025-06,Bipolar Disorders,Age,65+ years,283
+2025-06,Bipolar Disorders,Age,All,469
+2025-05,Bipolar Disorders,Age,12-17 years,207
+2025-05,Bipolar Disorders,Age,18-34 years,570
+2025-05,Bipolar Disorders,Age,35-64 years,688
+2025-05,Bipolar Disorders,Age,65+ years,278
+2025-05,Bipolar Disorders,Age,All,456
+2025-04,Bipolar Disorders,Age,12-17 years,202
+2025-04,Bipolar Disorders,Age,18-34 years,577
+2025-04,Bipolar Disorders,Age,35-64 years,689
+2025-04,Bipolar Disorders,Age,65+ years,280
+2025-04,Bipolar Disorders,Age,All,457
+2025-03,Bipolar Disorders,Age,12-17 years,200
+2025-03,Bipolar Disorders,Age,18-34 years,578
+2025-03,Bipolar Disorders,Age,35-64 years,691
+2025-03,Bipolar Disorders,Age,65+ years,279
+2025-03,Bipolar Disorders,Age,All,455
+2025-02,Bipolar Disorders,Age,12-17 years,174
+2025-02,Bipolar Disorders,Age,18-34 years,542
+2025-02,Bipolar Disorders,Age,35-64 years,649
+2025-02,Bipolar Disorders,Age,65+ years,272
+2025-02,Bipolar Disorders,Age,All,429
+2025-01,Bipolar Disorders,Age,12-17 years,181
+2025-01,Bipolar Disorders,Age,18-34 years,522
+2025-01,Bipolar Disorders,Age,35-64 years,645
+2025-01,Bipolar Disorders,Age,65+ years,267
+2025-01,Bipolar Disorders,Age,All,421
+2024-12,Bipolar Disorders,Age,12-17 years,169
+2024-12,Bipolar Disorders,Age,18-34 years,514
+2024-12,Bipolar Disorders,Age,35-64 years,635
+2024-12,Bipolar Disorders,Age,65+ years,261
+2024-12,Bipolar Disorders,Age,All,406
+2024-11,Bipolar Disorders,Age,12-17 years,184
+2024-11,Bipolar Disorders,Age,18-34 years,559
+2024-11,Bipolar Disorders,Age,35-64 years,686
+2024-11,Bipolar Disorders,Age,65+ years,272
+2024-11,Bipolar Disorders,Age,All,442
+2024-10,Bipolar Disorders,Age,12-17 years,187
+2024-10,Bipolar Disorders,Age,18-34 years,563
+2024-10,Bipolar Disorders,Age,35-64 years,676
+2024-10,Bipolar Disorders,Age,65+ years,267
+2024-10,Bipolar Disorders,Age,All,443
+2024-09,Bipolar Disorders,Age,12-17 years,184
+2024-09,Bipolar Disorders,Age,18-34 years,565
+2024-09,Bipolar Disorders,Age,35-64 years,664
+2024-09,Bipolar Disorders,Age,65+ years,266
+2024-09,Bipolar Disorders,Age,All,442
+2024-08,Bipolar Disorders,Age,12-17 years,193
+2024-08,Bipolar Disorders,Age,18-34 years,570
+2024-08,Bipolar Disorders,Age,35-64 years,676
+2024-08,Bipolar Disorders,Age,65+ years,268
+2024-08,Bipolar Disorders,Age,All,458
+2024-07,Bipolar Disorders,Age,12-17 years,219
+2024-07,Bipolar Disorders,Age,18-34 years,573
+2024-07,Bipolar Disorders,Age,35-64 years,665
+2024-07,Bipolar Disorders,Age,65+ years,268
+2024-07,Bipolar Disorders,Age,All,461
+2024-06,Bipolar Disorders,Age,12-17 years,205
+2024-06,Bipolar Disorders,Age,18-34 years,578
+2024-06,Bipolar Disorders,Age,35-64 years,672
+2024-06,Bipolar Disorders,Age,65+ years,261
+2024-06,Bipolar Disorders,Age,All,457
+2024-05,Bipolar Disorders,Age,12-17 years,204
+2024-05,Bipolar Disorders,Age,18-34 years,579
+2024-05,Bipolar Disorders,Age,35-64 years,669
+2024-05,Bipolar Disorders,Age,65+ years,262
+2024-05,Bipolar Disorders,Age,All,445
+2024-04,Bipolar Disorders,Age,12-17 years,214
+2024-04,Bipolar Disorders,Age,18-34 years,581
+2024-04,Bipolar Disorders,Age,35-64 years,694
+2024-04,Bipolar Disorders,Age,65+ years,274
+2024-04,Bipolar Disorders,Age,All,456
+2024-03,Bipolar Disorders,Age,12-17 years,202
+2024-03,Bipolar Disorders,Age,18-34 years,589
+2024-03,Bipolar Disorders,Age,35-64 years,690
+2024-03,Bipolar Disorders,Age,65+ years,265
+2024-03,Bipolar Disorders,Age,All,451
+2024-02,Bipolar Disorders,Age,12-17 years,207
+2024-02,Bipolar Disorders,Age,18-34 years,584
+2024-02,Bipolar Disorders,Age,35-64 years,690
+2024-02,Bipolar Disorders,Age,65+ years,265
+2024-02,Bipolar Disorders,Age,All,449
+2024-01,Bipolar Disorders,Age,12-17 years,214
+2024-01,Bipolar Disorders,Age,18-34 years,581
+2024-01,Bipolar Disorders,Age,35-64 years,681
+2024-01,Bipolar Disorders,Age,65+ years,264
+2024-01,Bipolar Disorders,Age,All,453
+2023-12,Bipolar Disorders,Age,12-17 years,186
+2023-12,Bipolar Disorders,Age,18-34 years,554
+2023-12,Bipolar Disorders,Age,35-64 years,636
+2023-12,Bipolar Disorders,Age,65+ years,258
+2023-12,Bipolar Disorders,Age,All,412
+2023-11,Bipolar Disorders,Age,12-17 years,211
+2023-11,Bipolar Disorders,Age,18-34 years,590
+2023-11,Bipolar Disorders,Age,35-64 years,689
+2023-11,Bipolar Disorders,Age,65+ years,265
+2023-11,Bipolar Disorders,Age,All,444
+2023-10,Bipolar Disorders,Age,12-17 years,216
+2023-10,Bipolar Disorders,Age,18-34 years,607
+2023-10,Bipolar Disorders,Age,35-64 years,701
+2023-10,Bipolar Disorders,Age,65+ years,268
+2023-10,Bipolar Disorders,Age,All,460
+2023-09,Bipolar Disorders,Age,12-17 years,202
+2023-09,Bipolar Disorders,Age,18-34 years,608
+2023-09,Bipolar Disorders,Age,35-64 years,696
+2023-09,Bipolar Disorders,Age,65+ years,266
+2023-09,Bipolar Disorders,Age,All,463
+2023-08,Bipolar Disorders,Age,12-17 years,231
+2023-08,Bipolar Disorders,Age,18-34 years,607
+2023-08,Bipolar Disorders,Age,35-64 years,694
+2023-08,Bipolar Disorders,Age,65+ years,265
+2023-08,Bipolar Disorders,Age,All,475
+2023-07,Bipolar Disorders,Age,12-17 years,243
+2023-07,Bipolar Disorders,Age,18-34 years,621
+2023-07,Bipolar Disorders,Age,35-64 years,712
+2023-07,Bipolar Disorders,Age,65+ years,267
+2023-07,Bipolar Disorders,Age,All,491
+2023-06,Bipolar Disorders,Age,12-17 years,251
+2023-06,Bipolar Disorders,Age,18-34 years,627
+2023-06,Bipolar Disorders,Age,35-64 years,721
+2023-06,Bipolar Disorders,Age,65+ years,273
+2023-06,Bipolar Disorders,Age,All,490
+2023-05,Bipolar Disorders,Age,12-17 years,235
+2023-05,Bipolar Disorders,Age,18-34 years,643
+2023-05,Bipolar Disorders,Age,35-64 years,722
+2023-05,Bipolar Disorders,Age,65+ years,274
+2023-05,Bipolar Disorders,Age,All,479
+2023-04,Bipolar Disorders,Age,12-17 years,244
+2023-04,Bipolar Disorders,Age,18-34 years,652
+2023-04,Bipolar Disorders,Age,35-64 years,749
+2023-04,Bipolar Disorders,Age,65+ years,275
+2023-04,Bipolar Disorders,Age,All,490
+2023-03,Bipolar Disorders,Age,12-17 years,266
+2023-03,Bipolar Disorders,Age,18-34 years,650
+2023-03,Bipolar Disorders,Age,35-64 years,741
+2023-03,Bipolar Disorders,Age,65+ years,277
+2023-03,Bipolar Disorders,Age,All,487
+2023-02,Bipolar Disorders,Age,12-17 years,273
+2023-02,Bipolar Disorders,Age,18-34 years,654
+2023-02,Bipolar Disorders,Age,35-64 years,735
+2023-02,Bipolar Disorders,Age,65+ years,281
+2023-02,Bipolar Disorders,Age,All,488
+2023-01,Bipolar Disorders,Age,12-17 years,265
+2023-01,Bipolar Disorders,Age,18-34 years,664
+2023-01,Bipolar Disorders,Age,35-64 years,730
+2023-01,Bipolar Disorders,Age,65+ years,273
+2023-01,Bipolar Disorders,Age,All,495
+2022-12,Bipolar Disorders,Age,12-17 years,213
+2022-12,Bipolar Disorders,Age,18-34 years,602
+2022-12,Bipolar Disorders,Age,35-64 years,689
+2022-12,Bipolar Disorders,Age,65+ years,261
+2022-12,Bipolar Disorders,Age,All,444
+2022-11,Bipolar Disorders,Age,12-17 years,207
+2022-11,Bipolar Disorders,Age,18-34 years,591
+2022-11,Bipolar Disorders,Age,35-64 years,697
+2022-11,Bipolar Disorders,Age,65+ years,257
+2022-11,Bipolar Disorders,Age,All,429
+2022-10,Bipolar Disorders,Age,12-17 years,221
+2022-10,Bipolar Disorders,Age,18-34 years,626
+2022-10,Bipolar Disorders,Age,35-64 years,722
+2022-10,Bipolar Disorders,Age,65+ years,273
+2022-10,Bipolar Disorders,Age,All,456
+2022-09,Bipolar Disorders,Age,12-17 years,240
+2022-09,Bipolar Disorders,Age,18-34 years,630
+2022-09,Bipolar Disorders,Age,35-64 years,716
+2022-09,Bipolar Disorders,Age,65+ years,270
+2022-09,Bipolar Disorders,Age,All,469
+2022-08,Bipolar Disorders,Age,12-17 years,246
+2022-08,Bipolar Disorders,Age,18-34 years,638
+2022-08,Bipolar Disorders,Age,35-64 years,725
+2022-08,Bipolar Disorders,Age,65+ years,266
+2022-08,Bipolar Disorders,Age,All,489
+2022-07,Bipolar Disorders,Age,12-17 years,272
+2022-07,Bipolar Disorders,Age,18-34 years,641
+2022-07,Bipolar Disorders,Age,35-64 years,736
+2022-07,Bipolar Disorders,Age,65+ years,260
+2022-07,Bipolar Disorders,Age,All,500
+2022-06,Bipolar Disorders,Age,12-17 years,260
+2022-06,Bipolar Disorders,Age,18-34 years,658
+2022-06,Bipolar Disorders,Age,35-64 years,741
+2022-06,Bipolar Disorders,Age,65+ years,264
+2022-06,Bipolar Disorders,Age,All,500
+2022-05,Bipolar Disorders,Age,12-17 years,267
+2022-05,Bipolar Disorders,Age,18-34 years,670
+2022-05,Bipolar Disorders,Age,35-64 years,758
+2022-05,Bipolar Disorders,Age,65+ years,265
+2022-05,Bipolar Disorders,Age,All,497
+2022-04,Bipolar Disorders,Age,12-17 years,288
+2022-04,Bipolar Disorders,Age,18-34 years,702
+2022-04,Bipolar Disorders,Age,35-64 years,795
+2022-04,Bipolar Disorders,Age,65+ years,276
+2022-04,Bipolar Disorders,Age,All,525
+2022-03,Bipolar Disorders,Age,12-17 years,302
+2022-03,Bipolar Disorders,Age,18-34 years,725
+2022-03,Bipolar Disorders,Age,35-64 years,808
+2022-03,Bipolar Disorders,Age,65+ years,282
+2022-03,Bipolar Disorders,Age,All,540
+2022-02,Bipolar Disorders,Age,12-17 years,320
+2022-02,Bipolar Disorders,Age,18-34 years,770
+2022-02,Bipolar Disorders,Age,35-64 years,838
+2022-02,Bipolar Disorders,Age,65+ years,286
+2022-02,Bipolar Disorders,Age,All,571
+2022-01,Bipolar Disorders,Age,12-17 years,284
+2022-01,Bipolar Disorders,Age,18-34 years,649
+2022-01,Bipolar Disorders,Age,35-64 years,737
+2022-01,Bipolar Disorders,Age,65+ years,272
+2022-01,Bipolar Disorders,Age,All,509
+2021-12,Bipolar Disorders,Age,12-17 years,248
+2021-12,Bipolar Disorders,Age,18-34 years,601
+2021-12,Bipolar Disorders,Age,35-64 years,712
+2021-12,Bipolar Disorders,Age,65+ years,265
+2021-12,Bipolar Disorders,Age,All,474
+2021-11,Bipolar Disorders,Age,12-17 years,285
+2021-11,Bipolar Disorders,Age,18-34 years,693
+2021-11,Bipolar Disorders,Age,35-64 years,783
+2021-11,Bipolar Disorders,Age,65+ years,277
+2021-11,Bipolar Disorders,Age,All,519
+2021-10,Bipolar Disorders,Age,12-17 years,288
+2021-10,Bipolar Disorders,Age,18-34 years,720
+2021-10,Bipolar Disorders,Age,35-64 years,816
+2021-10,Bipolar Disorders,Age,65+ years,279
+2021-10,Bipolar Disorders,Age,All,542
+2021-09,Bipolar Disorders,Age,12-17 years,272
+2021-09,Bipolar Disorders,Age,18-34 years,688
+2021-09,Bipolar Disorders,Age,35-64 years,793
+2021-09,Bipolar Disorders,Age,65+ years,281
+2021-09,Bipolar Disorders,Age,All,529
+2021-08,Bipolar Disorders,Age,12-17 years,249
+2021-08,Bipolar Disorders,Age,18-34 years,665
+2021-08,Bipolar Disorders,Age,35-64 years,763
+2021-08,Bipolar Disorders,Age,65+ years,281
+2021-08,Bipolar Disorders,Age,All,522
+2021-07,Bipolar Disorders,Age,12-17 years,294
+2021-07,Bipolar Disorders,Age,18-34 years,715
+2021-07,Bipolar Disorders,Age,35-64 years,822
+2021-07,Bipolar Disorders,Age,65+ years,287
+2021-07,Bipolar Disorders,Age,All,563
+2021-06,Bipolar Disorders,Age,12-17 years,307
+2021-06,Bipolar Disorders,Age,18-34 years,777
+2021-06,Bipolar Disorders,Age,35-64 years,863
+2021-06,Bipolar Disorders,Age,65+ years,296
+2021-06,Bipolar Disorders,Age,All,596
+2021-05,Bipolar Disorders,Age,12-17 years,336
+2021-05,Bipolar Disorders,Age,18-34 years,795
+2021-05,Bipolar Disorders,Age,35-64 years,893
+2021-05,Bipolar Disorders,Age,65+ years,297
+2021-05,Bipolar Disorders,Age,All,611
+2021-04,Bipolar Disorders,Age,12-17 years,363
+2021-04,Bipolar Disorders,Age,18-34 years,806
+2021-04,Bipolar Disorders,Age,35-64 years,880
+2021-04,Bipolar Disorders,Age,65+ years,291
+2021-04,Bipolar Disorders,Age,All,616
+2021-03,Bipolar Disorders,Age,12-17 years,389
+2021-03,Bipolar Disorders,Age,18-34 years,876
+2021-03,Bipolar Disorders,Age,35-64 years,966
+2021-03,Bipolar Disorders,Age,65+ years,311
+2021-03,Bipolar Disorders,Age,All,676
+2021-02,Bipolar Disorders,Age,12-17 years,464
+2021-02,Bipolar Disorders,Age,18-34 years,924
+2021-02,Bipolar Disorders,Age,35-64 years,978
+2021-02,Bipolar Disorders,Age,65+ years,319
+2021-02,Bipolar Disorders,Age,All,708
+2021-01,Bipolar Disorders,Age,12-17 years,428
+2021-01,Bipolar Disorders,Age,18-34 years,866
+2021-01,Bipolar Disorders,Age,35-64 years,945
+2021-01,Bipolar Disorders,Age,65+ years,315
+2021-01,Bipolar Disorders,Age,All,683
+2020-12,Bipolar Disorders,Age,12-17 years,435
+2020-12,Bipolar Disorders,Age,18-34 years,844
+2020-12,Bipolar Disorders,Age,35-64 years,920
+2020-12,Bipolar Disorders,Age,65+ years,307
+2020-12,Bipolar Disorders,Age,All,666
+2020-11,Bipolar Disorders,Age,12-17 years,425
+2020-11,Bipolar Disorders,Age,18-34 years,841
+2020-11,Bipolar Disorders,Age,35-64 years,937
+2020-11,Bipolar Disorders,Age,65+ years,315
+2020-11,Bipolar Disorders,Age,All,672
+2020-10,Bipolar Disorders,Age,12-17 years,420
+2020-10,Bipolar Disorders,Age,18-34 years,890
+2020-10,Bipolar Disorders,Age,35-64 years,1007
+2020-10,Bipolar Disorders,Age,65+ years,331
+2020-10,Bipolar Disorders,Age,All,713
+2020-09,Bipolar Disorders,Age,12-17 years,426
+2020-09,Bipolar Disorders,Age,18-34 years,940
+2020-09,Bipolar Disorders,Age,35-64 years,1086
+2020-09,Bipolar Disorders,Age,65+ years,340
+2020-09,Bipolar Disorders,Age,All,760
+2020-08,Bipolar Disorders,Age,12-17 years,423
+2020-08,Bipolar Disorders,Age,18-34 years,969
+2020-08,Bipolar Disorders,Age,35-64 years,1110
+2020-08,Bipolar Disorders,Age,65+ years,360
+2020-08,Bipolar Disorders,Age,All,790
+2020-07,Bipolar Disorders,Age,12-17 years,407
+2020-07,Bipolar Disorders,Age,18-34 years,934
+2020-07,Bipolar Disorders,Age,35-64 years,1067
+2020-07,Bipolar Disorders,Age,65+ years,351
+2020-07,Bipolar Disorders,Age,All,767
+2020-06,Bipolar Disorders,Age,12-17 years,447
+2020-06,Bipolar Disorders,Age,18-34 years,964
+2020-06,Bipolar Disorders,Age,35-64 years,1119
+2020-06,Bipolar Disorders,Age,65+ years,348
+2020-06,Bipolar Disorders,Age,All,795
+2020-05,Bipolar Disorders,Age,12-17 years,543
+2020-05,Bipolar Disorders,Age,18-34 years,1085
+2020-05,Bipolar Disorders,Age,35-64 years,1179
+2020-05,Bipolar Disorders,Age,65+ years,374
+2020-05,Bipolar Disorders,Age,All,860
+2020-04,Bipolar Disorders,Age,12-17 years,623
+2020-04,Bipolar Disorders,Age,18-34 years,1089
+2020-04,Bipolar Disorders,Age,35-64 years,1168
+2020-04,Bipolar Disorders,Age,65+ years,384
+2020-04,Bipolar Disorders,Age,All,873
+2020-03,Bipolar Disorders,Age,12-17 years,388
+2020-03,Bipolar Disorders,Age,18-34 years,843
+2020-03,Bipolar Disorders,Age,35-64 years,1016
+2020-03,Bipolar Disorders,Age,65+ years,327
+2020-03,Bipolar Disorders,Age,All,689
+2020-02,Bipolar Disorders,Age,12-17 years,335
+2020-02,Bipolar Disorders,Age,18-34 years,818
+2020-02,Bipolar Disorders,Age,35-64 years,965
+2020-02,Bipolar Disorders,Age,65+ years,308
+2020-02,Bipolar Disorders,Age,All,621
+2020-01,Bipolar Disorders,Age,12-17 years,317
+2020-01,Bipolar Disorders,Age,18-34 years,804
+2020-01,Bipolar Disorders,Age,35-64 years,956
+2020-01,Bipolar Disorders,Age,65+ years,303
+2020-01,Bipolar Disorders,Age,All,615
+2019-12,Bipolar Disorders,Age,12-17 years,329
+2019-12,Bipolar Disorders,Age,18-34 years,778
+2019-12,Bipolar Disorders,Age,35-64 years,945
+2019-12,Bipolar Disorders,Age,65+ years,295
+2019-12,Bipolar Disorders,Age,All,591
+2019-11,Bipolar Disorders,Age,12-17 years,348
+2019-11,Bipolar Disorders,Age,18-34 years,823
+2019-11,Bipolar Disorders,Age,35-64 years,970
+2019-11,Bipolar Disorders,Age,65+ years,286
+2019-11,Bipolar Disorders,Age,All,617
+2019-10,Bipolar Disorders,Age,12-17 years,348
+2019-10,Bipolar Disorders,Age,18-34 years,828
+2019-10,Bipolar Disorders,Age,35-64 years,987
+2019-10,Bipolar Disorders,Age,65+ years,299
+2019-10,Bipolar Disorders,Age,All,643
+2019-09,Bipolar Disorders,Age,12-17 years,309
+2019-09,Bipolar Disorders,Age,18-34 years,816
+2019-09,Bipolar Disorders,Age,35-64 years,970
+2019-09,Bipolar Disorders,Age,65+ years,302
+2019-09,Bipolar Disorders,Age,All,638
+2019-08,Bipolar Disorders,Age,12-17 years,333
+2019-08,Bipolar Disorders,Age,18-34 years,851
+2019-08,Bipolar Disorders,Age,35-64 years,984
+2019-08,Bipolar Disorders,Age,65+ years,306
+2019-08,Bipolar Disorders,Age,All,667
+2019-07,Bipolar Disorders,Age,12-17 years,358
+2019-07,Bipolar Disorders,Age,18-34 years,813
+2019-07,Bipolar Disorders,Age,35-64 years,948
+2019-07,Bipolar Disorders,Age,65+ years,292
+2019-07,Bipolar Disorders,Age,All,646
+2019-06,Bipolar Disorders,Age,12-17 years,332
+2019-06,Bipolar Disorders,Age,18-34 years,797
+2019-06,Bipolar Disorders,Age,35-64 years,948
+2019-06,Bipolar Disorders,Age,65+ years,282
+2019-06,Bipolar Disorders,Age,All,631
+2019-05,Bipolar Disorders,Age,12-17 years,329
+2019-05,Bipolar Disorders,Age,18-34 years,795
+2019-05,Bipolar Disorders,Age,35-64 years,937
+2019-05,Bipolar Disorders,Age,65+ years,283
+2019-05,Bipolar Disorders,Age,All,613
+2019-04,Bipolar Disorders,Age,12-17 years,339
+2019-04,Bipolar Disorders,Age,18-34 years,805
+2019-04,Bipolar Disorders,Age,35-64 years,948
+2019-04,Bipolar Disorders,Age,65+ years,279
+2019-04,Bipolar Disorders,Age,All,616
+2019-03,Bipolar Disorders,Age,12-17 years,312
+2019-03,Bipolar Disorders,Age,18-34 years,775
+2019-03,Bipolar Disorders,Age,35-64 years,910
+2019-03,Bipolar Disorders,Age,65+ years,264
+2019-03,Bipolar Disorders,Age,All,584
+2019-02,Bipolar Disorders,Age,12-17 years,311
+2019-02,Bipolar Disorders,Age,18-34 years,759
+2019-02,Bipolar Disorders,Age,35-64 years,876
+2019-02,Bipolar Disorders,Age,65+ years,261
+2019-02,Bipolar Disorders,Age,All,568
+2019-01,Bipolar Disorders,Age,12-17 years,316
+2019-01,Bipolar Disorders,Age,18-34 years,721
+2019-01,Bipolar Disorders,Age,35-64 years,853
+2019-01,Bipolar Disorders,Age,65+ years,259
+2019-01,Bipolar Disorders,Age,All,557
+2025-12,Depressive Disorders,Age,12-17 years,2099
+2025-12,Depressive Disorders,Age,18-34 years,1264
+2025-12,Depressive Disorders,Age,35-64 years,1560
+2025-12,Depressive Disorders,Age,65+ years,2038
+2025-12,Depressive Disorders,Age,All,1450
+2025-11,Depressive Disorders,Age,12-17 years,2642
+2025-11,Depressive Disorders,Age,18-34 years,1429
+2025-11,Depressive Disorders,Age,35-64 years,1695
+2025-11,Depressive Disorders,Age,65+ years,2174
+2025-11,Depressive Disorders,Age,All,1611
+2025-10,Depressive Disorders,Age,12-17 years,2645
+2025-10,Depressive Disorders,Age,18-34 years,1420
+2025-10,Depressive Disorders,Age,35-64 years,1692
+2025-10,Depressive Disorders,Age,65+ years,2157
+2025-10,Depressive Disorders,Age,All,1622
+2025-09,Depressive Disorders,Age,12-17 years,2392
+2025-09,Depressive Disorders,Age,18-34 years,1396
+2025-09,Depressive Disorders,Age,35-64 years,1650
+2025-09,Depressive Disorders,Age,65+ years,2089
+2025-09,Depressive Disorders,Age,All,1575
+2025-08,Depressive Disorders,Age,12-17 years,2040
+2025-08,Depressive Disorders,Age,18-34 years,1379
+2025-08,Depressive Disorders,Age,35-64 years,1632
+2025-08,Depressive Disorders,Age,65+ years,2067
+2025-08,Depressive Disorders,Age,All,1548
+2025-07,Depressive Disorders,Age,12-17 years,2198
+2025-07,Depressive Disorders,Age,18-34 years,1415
+2025-07,Depressive Disorders,Age,35-64 years,1658
+2025-07,Depressive Disorders,Age,65+ years,2027
+2025-07,Depressive Disorders,Age,All,1571
+2025-06,Depressive Disorders,Age,12-17 years,2232
+2025-06,Depressive Disorders,Age,18-34 years,1426
+2025-06,Depressive Disorders,Age,35-64 years,1664
+2025-06,Depressive Disorders,Age,65+ years,2041
+2025-06,Depressive Disorders,Age,All,1571
+2025-05,Depressive Disorders,Age,12-17 years,2508
+2025-05,Depressive Disorders,Age,18-34 years,1423
+2025-05,Depressive Disorders,Age,35-64 years,1673
+2025-05,Depressive Disorders,Age,65+ years,2064
+2025-05,Depressive Disorders,Age,All,1576
+2025-04,Depressive Disorders,Age,12-17 years,2607
+2025-04,Depressive Disorders,Age,18-34 years,1441
+2025-04,Depressive Disorders,Age,35-64 years,1682
+2025-04,Depressive Disorders,Age,65+ years,2087
+2025-04,Depressive Disorders,Age,All,1594
+2025-03,Depressive Disorders,Age,12-17 years,2606
+2025-03,Depressive Disorders,Age,18-34 years,1417
+2025-03,Depressive Disorders,Age,35-64 years,1677
+2025-03,Depressive Disorders,Age,65+ years,2128
+2025-03,Depressive Disorders,Age,All,1588
+2025-02,Depressive Disorders,Age,12-17 years,2290
+2025-02,Depressive Disorders,Age,18-34 years,1352
+2025-02,Depressive Disorders,Age,35-64 years,1606
+2025-02,Depressive Disorders,Age,65+ years,2069
+2025-02,Depressive Disorders,Age,All,1514
+2025-01,Depressive Disorders,Age,12-17 years,2262
+2025-01,Depressive Disorders,Age,18-34 years,1341
+2025-01,Depressive Disorders,Age,35-64 years,1609
+2025-01,Depressive Disorders,Age,65+ years,2090
+2025-01,Depressive Disorders,Age,All,1507
+2024-12,Depressive Disorders,Age,12-17 years,2031
+2024-12,Depressive Disorders,Age,18-34 years,1313
+2024-12,Depressive Disorders,Age,35-64 years,1590
+2024-12,Depressive Disorders,Age,65+ years,2015
+2024-12,Depressive Disorders,Age,All,1442
+2024-11,Depressive Disorders,Age,12-17 years,2408
+2024-11,Depressive Disorders,Age,18-34 years,1467
+2024-11,Depressive Disorders,Age,35-64 years,1719
+2024-11,Depressive Disorders,Age,65+ years,2079
+2024-11,Depressive Disorders,Age,All,1568
+2024-10,Depressive Disorders,Age,12-17 years,2433
+2024-10,Depressive Disorders,Age,18-34 years,1477
+2024-10,Depressive Disorders,Age,35-64 years,1688
+2024-10,Depressive Disorders,Age,65+ years,2068
+2024-10,Depressive Disorders,Age,All,1581
+2024-09,Depressive Disorders,Age,12-17 years,2319
+2024-09,Depressive Disorders,Age,18-34 years,1453
+2024-09,Depressive Disorders,Age,35-64 years,1673
+2024-09,Depressive Disorders,Age,65+ years,2036
+2024-09,Depressive Disorders,Age,All,1565
+2024-08,Depressive Disorders,Age,12-17 years,1953
+2024-08,Depressive Disorders,Age,18-34 years,1432
+2024-08,Depressive Disorders,Age,35-64 years,1661
+2024-08,Depressive Disorders,Age,65+ years,2014
+2024-08,Depressive Disorders,Age,All,1545
+2024-07,Depressive Disorders,Age,12-17 years,2022
+2024-07,Depressive Disorders,Age,18-34 years,1437
+2024-07,Depressive Disorders,Age,35-64 years,1647
+2024-07,Depressive Disorders,Age,65+ years,1988
+2024-07,Depressive Disorders,Age,All,1544
+2024-06,Depressive Disorders,Age,12-17 years,2042
+2024-06,Depressive Disorders,Age,18-34 years,1416
+2024-06,Depressive Disorders,Age,35-64 years,1663
+2024-06,Depressive Disorders,Age,65+ years,1992
+2024-06,Depressive Disorders,Age,All,1534
+2024-05,Depressive Disorders,Age,12-17 years,2462
+2024-05,Depressive Disorders,Age,18-34 years,1436
+2024-05,Depressive Disorders,Age,35-64 years,1664
+2024-05,Depressive Disorders,Age,65+ years,1992
+2024-05,Depressive Disorders,Age,All,1538
+2024-04,Depressive Disorders,Age,12-17 years,2598
+2024-04,Depressive Disorders,Age,18-34 years,1492
+2024-04,Depressive Disorders,Age,35-64 years,1686
+2024-04,Depressive Disorders,Age,65+ years,2033
+2024-04,Depressive Disorders,Age,All,1575
+2024-03,Depressive Disorders,Age,12-17 years,2507
+2024-03,Depressive Disorders,Age,18-34 years,1457
+2024-03,Depressive Disorders,Age,35-64 years,1687
+2024-03,Depressive Disorders,Age,65+ years,2051
+2024-03,Depressive Disorders,Age,All,1554
+2024-02,Depressive Disorders,Age,12-17 years,2522
+2024-02,Depressive Disorders,Age,18-34 years,1477
+2024-02,Depressive Disorders,Age,35-64 years,1677
+2024-02,Depressive Disorders,Age,65+ years,2066
+2024-02,Depressive Disorders,Age,All,1560
+2024-01,Depressive Disorders,Age,12-17 years,2549
+2024-01,Depressive Disorders,Age,18-34 years,1462
+2024-01,Depressive Disorders,Age,35-64 years,1674
+2024-01,Depressive Disorders,Age,65+ years,2089
+2024-01,Depressive Disorders,Age,All,1578
+2023-12,Depressive Disorders,Age,12-17 years,2137
+2023-12,Depressive Disorders,Age,18-34 years,1365
+2023-12,Depressive Disorders,Age,35-64 years,1598
+2023-12,Depressive Disorders,Age,65+ years,1990
+2023-12,Depressive Disorders,Age,All,1436
+2023-11,Depressive Disorders,Age,12-17 years,2627
+2023-11,Depressive Disorders,Age,18-34 years,1506
+2023-11,Depressive Disorders,Age,35-64 years,1699
+2023-11,Depressive Disorders,Age,65+ years,2011
+2023-11,Depressive Disorders,Age,All,1541
+2023-10,Depressive Disorders,Age,12-17 years,2619
+2023-10,Depressive Disorders,Age,18-34 years,1566
+2023-10,Depressive Disorders,Age,35-64 years,1746
+2023-10,Depressive Disorders,Age,65+ years,2038
+2023-10,Depressive Disorders,Age,All,1604
+2023-09,Depressive Disorders,Age,12-17 years,2356
+2023-09,Depressive Disorders,Age,18-34 years,1516
+2023-09,Depressive Disorders,Age,35-64 years,1719
+2023-09,Depressive Disorders,Age,65+ years,1956
+2023-09,Depressive Disorders,Age,All,1566
+2023-08,Depressive Disorders,Age,12-17 years,2152
+2023-08,Depressive Disorders,Age,18-34 years,1522
+2023-08,Depressive Disorders,Age,35-64 years,1723
+2023-08,Depressive Disorders,Age,65+ years,1962
+2023-08,Depressive Disorders,Age,All,1577
+2023-07,Depressive Disorders,Age,12-17 years,2181
+2023-07,Depressive Disorders,Age,18-34 years,1527
+2023-07,Depressive Disorders,Age,35-64 years,1739
+2023-07,Depressive Disorders,Age,65+ years,1967
+2023-07,Depressive Disorders,Age,All,1590
+2023-06,Depressive Disorders,Age,12-17 years,2329
+2023-06,Depressive Disorders,Age,18-34 years,1541
+2023-06,Depressive Disorders,Age,35-64 years,1749
+2023-06,Depressive Disorders,Age,65+ years,1992
+2023-06,Depressive Disorders,Age,All,1594
+2023-05,Depressive Disorders,Age,12-17 years,2900
+2023-05,Depressive Disorders,Age,18-34 years,1597
+2023-05,Depressive Disorders,Age,35-64 years,1771
+2023-05,Depressive Disorders,Age,65+ years,2019
+2023-05,Depressive Disorders,Age,All,1622
+2023-04,Depressive Disorders,Age,12-17 years,3119
+2023-04,Depressive Disorders,Age,18-34 years,1663
+2023-04,Depressive Disorders,Age,35-64 years,1826
+2023-04,Depressive Disorders,Age,65+ years,2073
+2023-04,Depressive Disorders,Age,All,1682
+2023-03,Depressive Disorders,Age,12-17 years,3483
+2023-03,Depressive Disorders,Age,18-34 years,1679
+2023-03,Depressive Disorders,Age,35-64 years,1837
+2023-03,Depressive Disorders,Age,65+ years,2084
+2023-03,Depressive Disorders,Age,All,1706
+2023-02,Depressive Disorders,Age,12-17 years,3576
+2023-02,Depressive Disorders,Age,18-34 years,1716
+2023-02,Depressive Disorders,Age,35-64 years,1849
+2023-02,Depressive Disorders,Age,65+ years,2095
+2023-02,Depressive Disorders,Age,All,1731
+2023-01,Depressive Disorders,Age,12-17 years,3530
+2023-01,Depressive Disorders,Age,18-34 years,1707
+2023-01,Depressive Disorders,Age,35-64 years,1842
+2023-01,Depressive Disorders,Age,65+ years,2088
+2023-01,Depressive Disorders,Age,All,1743
+2022-12,Depressive Disorders,Age,12-17 years,2592
+2022-12,Depressive Disorders,Age,18-34 years,1526
+2022-12,Depressive Disorders,Age,35-64 years,1748
+2022-12,Depressive Disorders,Age,65+ years,2031
+2022-12,Depressive Disorders,Age,All,1555
+2022-11,Depressive Disorders,Age,12-17 years,2604
+2022-11,Depressive Disorders,Age,18-34 years,1544
+2022-11,Depressive Disorders,Age,35-64 years,1735
+2022-11,Depressive Disorders,Age,65+ years,2032
+2022-11,Depressive Disorders,Age,All,1507
+2022-10,Depressive Disorders,Age,12-17 years,2767
+2022-10,Depressive Disorders,Age,18-34 years,1654
+2022-10,Depressive Disorders,Age,35-64 years,1781
+2022-10,Depressive Disorders,Age,65+ years,2015
+2022-10,Depressive Disorders,Age,All,1582
+2022-09,Depressive Disorders,Age,12-17 years,2778
+2022-09,Depressive Disorders,Age,18-34 years,1657
+2022-09,Depressive Disorders,Age,35-64 years,1796
+2022-09,Depressive Disorders,Age,65+ years,1855
+2022-09,Depressive Disorders,Age,All,1590
+2022-08,Depressive Disorders,Age,12-17 years,2319
+2022-08,Depressive Disorders,Age,18-34 years,1626
+2022-08,Depressive Disorders,Age,35-64 years,1816
+2022-08,Depressive Disorders,Age,65+ years,1830
+2022-08,Depressive Disorders,Age,All,1589
+2022-07,Depressive Disorders,Age,12-17 years,2346
+2022-07,Depressive Disorders,Age,18-34 years,1643
+2022-07,Depressive Disorders,Age,35-64 years,1821
+2022-07,Depressive Disorders,Age,65+ years,1798
+2022-07,Depressive Disorders,Age,All,1596
+2022-06,Depressive Disorders,Age,12-17 years,2618
+2022-06,Depressive Disorders,Age,18-34 years,1652
+2022-06,Depressive Disorders,Age,35-64 years,1870
+2022-06,Depressive Disorders,Age,65+ years,1840
+2022-06,Depressive Disorders,Age,All,1619
+2022-05,Depressive Disorders,Age,12-17 years,3250
+2022-05,Depressive Disorders,Age,18-34 years,1742
+2022-05,Depressive Disorders,Age,35-64 years,1911
+2022-05,Depressive Disorders,Age,65+ years,1861
+2022-05,Depressive Disorders,Age,All,1678
+2022-04,Depressive Disorders,Age,12-17 years,3503
+2022-04,Depressive Disorders,Age,18-34 years,1819
+2022-04,Depressive Disorders,Age,35-64 years,1996
+2022-04,Depressive Disorders,Age,65+ years,1919
+2022-04,Depressive Disorders,Age,All,1767
+2022-03,Depressive Disorders,Age,12-17 years,4192
+2022-03,Depressive Disorders,Age,18-34 years,1918
+2022-03,Depressive Disorders,Age,35-64 years,2045
+2022-03,Depressive Disorders,Age,65+ years,1929
+2022-03,Depressive Disorders,Age,All,1860
+2022-02,Depressive Disorders,Age,12-17 years,4582
+2022-02,Depressive Disorders,Age,18-34 years,2053
+2022-02,Depressive Disorders,Age,35-64 years,2083
+2022-02,Depressive Disorders,Age,65+ years,1990
+2022-02,Depressive Disorders,Age,All,1962
+2022-01,Depressive Disorders,Age,12-17 years,3329
+2022-01,Depressive Disorders,Age,18-34 years,1637
+2022-01,Depressive Disorders,Age,35-64 years,1846
+2022-01,Depressive Disorders,Age,65+ years,1923
+2022-01,Depressive Disorders,Age,All,1689
+2021-12,Depressive Disorders,Age,12-17 years,3248
+2021-12,Depressive Disorders,Age,18-34 years,1543
+2021-12,Depressive Disorders,Age,35-64 years,1818
+2021-12,Depressive Disorders,Age,65+ years,1864
+2021-12,Depressive Disorders,Age,All,1601
+2021-11,Depressive Disorders,Age,12-17 years,3874
+2021-11,Depressive Disorders,Age,18-34 years,1829
+2021-11,Depressive Disorders,Age,35-64 years,1948
+2021-11,Depressive Disorders,Age,65+ years,1859
+2021-11,Depressive Disorders,Age,All,1751
+2021-10,Depressive Disorders,Age,12-17 years,3599
+2021-10,Depressive Disorders,Age,18-34 years,1874
+2021-10,Depressive Disorders,Age,35-64 years,2015
+2021-10,Depressive Disorders,Age,65+ years,1908
+2021-10,Depressive Disorders,Age,All,1797
+2021-09,Depressive Disorders,Age,12-17 years,3109
+2021-09,Depressive Disorders,Age,18-34 years,1795
+2021-09,Depressive Disorders,Age,35-64 years,2033
+2021-09,Depressive Disorders,Age,65+ years,2023
+2021-09,Depressive Disorders,Age,All,1782
+2021-08,Depressive Disorders,Age,12-17 years,2357
+2021-08,Depressive Disorders,Age,18-34 years,1655
+2021-08,Depressive Disorders,Age,35-64 years,1940
+2021-08,Depressive Disorders,Age,65+ years,1989
+2021-08,Depressive Disorders,Age,All,1669
+2021-07,Depressive Disorders,Age,12-17 years,2646
+2021-07,Depressive Disorders,Age,18-34 years,1760
+2021-07,Depressive Disorders,Age,35-64 years,2065
+2021-07,Depressive Disorders,Age,65+ years,2040
+2021-07,Depressive Disorders,Age,All,1775
+2021-06,Depressive Disorders,Age,12-17 years,3236
+2021-06,Depressive Disorders,Age,18-34 years,1910
+2021-06,Depressive Disorders,Age,35-64 years,2178
+2021-06,Depressive Disorders,Age,65+ years,2105
+2021-06,Depressive Disorders,Age,All,1903
+2021-05,Depressive Disorders,Age,12-17 years,4212
+2021-05,Depressive Disorders,Age,18-34 years,1974
+2021-05,Depressive Disorders,Age,35-64 years,2215
+2021-05,Depressive Disorders,Age,65+ years,2120
+2021-05,Depressive Disorders,Age,All,1989
+2021-04,Depressive Disorders,Age,12-17 years,4343
+2021-04,Depressive Disorders,Age,18-34 years,1984
+2021-04,Depressive Disorders,Age,35-64 years,2217
+2021-04,Depressive Disorders,Age,65+ years,2155
+2021-04,Depressive Disorders,Age,All,2030
+2021-03,Depressive Disorders,Age,12-17 years,5028
+2021-03,Depressive Disorders,Age,18-34 years,2183
+2021-03,Depressive Disorders,Age,35-64 years,2402
+2021-03,Depressive Disorders,Age,65+ years,2277
+2021-03,Depressive Disorders,Age,All,2227
+2021-02,Depressive Disorders,Age,12-17 years,5405
+2021-02,Depressive Disorders,Age,18-34 years,2330
+2021-02,Depressive Disorders,Age,35-64 years,2464
+2021-02,Depressive Disorders,Age,65+ years,2310
+2021-02,Depressive Disorders,Age,All,2327
+2021-01,Depressive Disorders,Age,12-17 years,4811
+2021-01,Depressive Disorders,Age,18-34 years,2162
+2021-01,Depressive Disorders,Age,35-64 years,2434
+2021-01,Depressive Disorders,Age,65+ years,2343
+2021-01,Depressive Disorders,Age,All,2260
+2020-12,Depressive Disorders,Age,12-17 years,4453
+2020-12,Depressive Disorders,Age,18-34 years,2153
+2020-12,Depressive Disorders,Age,35-64 years,2420
+2020-12,Depressive Disorders,Age,65+ years,2333
+2020-12,Depressive Disorders,Age,All,2236
+2020-11,Depressive Disorders,Age,12-17 years,4514
+2020-11,Depressive Disorders,Age,18-34 years,2198
+2020-11,Depressive Disorders,Age,35-64 years,2512
+2020-11,Depressive Disorders,Age,65+ years,2379
+2020-11,Depressive Disorders,Age,All,2293
+2020-10,Depressive Disorders,Age,12-17 years,4422
+2020-10,Depressive Disorders,Age,18-34 years,2358
+2020-10,Depressive Disorders,Age,35-64 years,2724
+2020-10,Depressive Disorders,Age,65+ years,2470
+2020-10,Depressive Disorders,Age,All,2436
+2020-09,Depressive Disorders,Age,12-17 years,4092
+2020-09,Depressive Disorders,Age,18-34 years,2418
+2020-09,Depressive Disorders,Age,35-64 years,2848
+2020-09,Depressive Disorders,Age,65+ years,2568
+2020-09,Depressive Disorders,Age,All,2504
+2020-08,Depressive Disorders,Age,12-17 years,3415
+2020-08,Depressive Disorders,Age,18-34 years,2393
+2020-08,Depressive Disorders,Age,35-64 years,2855
+2020-08,Depressive Disorders,Age,65+ years,2622
+2020-08,Depressive Disorders,Age,All,2485
+2020-07,Depressive Disorders,Age,12-17 years,3223
+2020-07,Depressive Disorders,Age,18-34 years,2309
+2020-07,Depressive Disorders,Age,35-64 years,2772
+2020-07,Depressive Disorders,Age,65+ years,2576
+2020-07,Depressive Disorders,Age,All,2418
+2020-06,Depressive Disorders,Age,12-17 years,3367
+2020-06,Depressive Disorders,Age,18-34 years,2369
+2020-06,Depressive Disorders,Age,35-64 years,2865
+2020-06,Depressive Disorders,Age,65+ years,2585
+2020-06,Depressive Disorders,Age,All,2481
+2020-05,Depressive Disorders,Age,12-17 years,4105
+2020-05,Depressive Disorders,Age,18-34 years,2555
+2020-05,Depressive Disorders,Age,35-64 years,2986
+2020-05,Depressive Disorders,Age,65+ years,2655
+2020-05,Depressive Disorders,Age,All,2630
+2020-04,Depressive Disorders,Age,12-17 years,4757
+2020-04,Depressive Disorders,Age,18-34 years,2492
+2020-04,Depressive Disorders,Age,35-64 years,2868
+2020-04,Depressive Disorders,Age,65+ years,2582
+2020-04,Depressive Disorders,Age,All,2583
+2020-03,Depressive Disorders,Age,12-17 years,3831
+2020-03,Depressive Disorders,Age,18-34 years,2106
+2020-03,Depressive Disorders,Age,35-64 years,2583
+2020-03,Depressive Disorders,Age,65+ years,2410
+2020-03,Depressive Disorders,Age,All,2191
+2020-02,Depressive Disorders,Age,12-17 years,3550
+2020-02,Depressive Disorders,Age,18-34 years,2212
+2020-02,Depressive Disorders,Age,35-64 years,2644
+2020-02,Depressive Disorders,Age,65+ years,2389
+2020-02,Depressive Disorders,Age,All,2172
+2020-01,Depressive Disorders,Age,12-17 years,3348
+2020-01,Depressive Disorders,Age,18-34 years,2145
+2020-01,Depressive Disorders,Age,35-64 years,2618
+2020-01,Depressive Disorders,Age,65+ years,2306
+2020-01,Depressive Disorders,Age,All,2117
+2019-12,Depressive Disorders,Age,12-17 years,2996
+2019-12,Depressive Disorders,Age,18-34 years,2108
+2019-12,Depressive Disorders,Age,35-64 years,2630
+2019-12,Depressive Disorders,Age,65+ years,2255
+2019-12,Depressive Disorders,Age,All,2041
+2019-11,Depressive Disorders,Age,12-17 years,3432
+2019-11,Depressive Disorders,Age,18-34 years,2252
+2019-11,Depressive Disorders,Age,35-64 years,2677
+2019-11,Depressive Disorders,Age,65+ years,2248
+2019-11,Depressive Disorders,Age,All,2141
+2019-10,Depressive Disorders,Age,12-17 years,3417
+2019-10,Depressive Disorders,Age,18-34 years,2281
+2019-10,Depressive Disorders,Age,35-64 years,2683
+2019-10,Depressive Disorders,Age,65+ years,2283
+2019-10,Depressive Disorders,Age,All,2212
+2019-09,Depressive Disorders,Age,12-17 years,2900
+2019-09,Depressive Disorders,Age,18-34 years,2216
+2019-09,Depressive Disorders,Age,35-64 years,2676
+2019-09,Depressive Disorders,Age,65+ years,2291
+2019-09,Depressive Disorders,Age,All,2179
+2019-08,Depressive Disorders,Age,12-17 years,2426
+2019-08,Depressive Disorders,Age,18-34 years,2199
+2019-08,Depressive Disorders,Age,35-64 years,2699
+2019-08,Depressive Disorders,Age,65+ years,2298
+2019-08,Depressive Disorders,Age,All,2182
+2019-07,Depressive Disorders,Age,12-17 years,2293
+2019-07,Depressive Disorders,Age,18-34 years,2126
+2019-07,Depressive Disorders,Age,35-64 years,2630
+2019-07,Depressive Disorders,Age,65+ years,2250
+2019-07,Depressive Disorders,Age,All,2125
+2019-06,Depressive Disorders,Age,12-17 years,2459
+2019-06,Depressive Disorders,Age,18-34 years,2062
+2019-06,Depressive Disorders,Age,35-64 years,2589
+2019-06,Depressive Disorders,Age,65+ years,2211
+2019-06,Depressive Disorders,Age,All,2072
+2019-05,Depressive Disorders,Age,12-17 years,3165
+2019-05,Depressive Disorders,Age,18-34 years,2114
+2019-05,Depressive Disorders,Age,35-64 years,2600
+2019-05,Depressive Disorders,Age,65+ years,2196
+2019-05,Depressive Disorders,Age,All,2103
+2019-04,Depressive Disorders,Age,12-17 years,3302
+2019-04,Depressive Disorders,Age,18-34 years,2130
+2019-04,Depressive Disorders,Age,35-64 years,2584
+2019-04,Depressive Disorders,Age,65+ years,2158
+2019-04,Depressive Disorders,Age,All,2091
+2019-03,Depressive Disorders,Age,12-17 years,3219
+2019-03,Depressive Disorders,Age,18-34 years,2055
+2019-03,Depressive Disorders,Age,35-64 years,2513
+2019-03,Depressive Disorders,Age,65+ years,2116
+2019-03,Depressive Disorders,Age,All,2013
+2019-02,Depressive Disorders,Age,12-17 years,3210
+2019-02,Depressive Disorders,Age,18-34 years,2052
+2019-02,Depressive Disorders,Age,35-64 years,2438
+2019-02,Depressive Disorders,Age,65+ years,2081
+2019-02,Depressive Disorders,Age,All,1975
+2019-01,Depressive Disorders,Age,12-17 years,3107
+2019-01,Depressive Disorders,Age,18-34 years,1932
+2019-01,Depressive Disorders,Age,35-64 years,2339
+2019-01,Depressive Disorders,Age,65+ years,1958
+2019-01,Depressive Disorders,Age,All,1892
+2025-12,Schizophrenia Spectrum Disorders,Age,12-17 years,43
+2025-12,Schizophrenia Spectrum Disorders,Age,18-34 years,469
+2025-12,Schizophrenia Spectrum Disorders,Age,35-64 years,617
+2025-12,Schizophrenia Spectrum Disorders,Age,65+ years,209
+2025-12,Schizophrenia Spectrum Disorders,Age,All,373
+2025-11,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2025-11,Schizophrenia Spectrum Disorders,Age,18-34 years,517
+2025-11,Schizophrenia Spectrum Disorders,Age,35-64 years,669
+2025-11,Schizophrenia Spectrum Disorders,Age,65+ years,231
+2025-11,Schizophrenia Spectrum Disorders,Age,All,413
+2025-10,Schizophrenia Spectrum Disorders,Age,12-17 years,53
+2025-10,Schizophrenia Spectrum Disorders,Age,18-34 years,529
+2025-10,Schizophrenia Spectrum Disorders,Age,35-64 years,665
+2025-10,Schizophrenia Spectrum Disorders,Age,65+ years,234
+2025-10,Schizophrenia Spectrum Disorders,Age,All,419
+2025-09,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2025-09,Schizophrenia Spectrum Disorders,Age,18-34 years,509
+2025-09,Schizophrenia Spectrum Disorders,Age,35-64 years,645
+2025-09,Schizophrenia Spectrum Disorders,Age,65+ years,226
+2025-09,Schizophrenia Spectrum Disorders,Age,All,407
+2025-08,Schizophrenia Spectrum Disorders,Age,12-17 years,57
+2025-08,Schizophrenia Spectrum Disorders,Age,18-34 years,523
+2025-08,Schizophrenia Spectrum Disorders,Age,35-64 years,639
+2025-08,Schizophrenia Spectrum Disorders,Age,65+ years,218
+2025-08,Schizophrenia Spectrum Disorders,Age,All,414
+2025-07,Schizophrenia Spectrum Disorders,Age,12-17 years,64
+2025-07,Schizophrenia Spectrum Disorders,Age,18-34 years,528
+2025-07,Schizophrenia Spectrum Disorders,Age,35-64 years,643
+2025-07,Schizophrenia Spectrum Disorders,Age,65+ years,222
+2025-07,Schizophrenia Spectrum Disorders,Age,All,424
+2025-06,Schizophrenia Spectrum Disorders,Age,12-17 years,63
+2025-06,Schizophrenia Spectrum Disorders,Age,18-34 years,534
+2025-06,Schizophrenia Spectrum Disorders,Age,35-64 years,649
+2025-06,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2025-06,Schizophrenia Spectrum Disorders,Age,All,425
+2025-05,Schizophrenia Spectrum Disorders,Age,12-17 years,58
+2025-05,Schizophrenia Spectrum Disorders,Age,18-34 years,532
+2025-05,Schizophrenia Spectrum Disorders,Age,35-64 years,661
+2025-05,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2025-05,Schizophrenia Spectrum Disorders,Age,All,417
+2025-04,Schizophrenia Spectrum Disorders,Age,12-17 years,58
+2025-04,Schizophrenia Spectrum Disorders,Age,18-34 years,541
+2025-04,Schizophrenia Spectrum Disorders,Age,35-64 years,671
+2025-04,Schizophrenia Spectrum Disorders,Age,65+ years,227
+2025-04,Schizophrenia Spectrum Disorders,Age,All,421
+2025-03,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2025-03,Schizophrenia Spectrum Disorders,Age,18-34 years,546
+2025-03,Schizophrenia Spectrum Disorders,Age,35-64 years,673
+2025-03,Schizophrenia Spectrum Disorders,Age,65+ years,231
+2025-03,Schizophrenia Spectrum Disorders,Age,All,421
+2025-02,Schizophrenia Spectrum Disorders,Age,12-17 years,45
+2025-02,Schizophrenia Spectrum Disorders,Age,18-34 years,500
+2025-02,Schizophrenia Spectrum Disorders,Age,35-64 years,633
+2025-02,Schizophrenia Spectrum Disorders,Age,65+ years,229
+2025-02,Schizophrenia Spectrum Disorders,Age,All,396
+2025-01,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2025-01,Schizophrenia Spectrum Disorders,Age,18-34 years,493
+2025-01,Schizophrenia Spectrum Disorders,Age,35-64 years,625
+2025-01,Schizophrenia Spectrum Disorders,Age,65+ years,223
+2025-01,Schizophrenia Spectrum Disorders,Age,All,390
+2024-12,Schizophrenia Spectrum Disorders,Age,12-17 years,43
+2024-12,Schizophrenia Spectrum Disorders,Age,18-34 years,478
+2024-12,Schizophrenia Spectrum Disorders,Age,35-64 years,607
+2024-12,Schizophrenia Spectrum Disorders,Age,65+ years,214
+2024-12,Schizophrenia Spectrum Disorders,Age,All,371
+2024-11,Schizophrenia Spectrum Disorders,Age,12-17 years,48
+2024-11,Schizophrenia Spectrum Disorders,Age,18-34 years,520
+2024-11,Schizophrenia Spectrum Disorders,Age,35-64 years,662
+2024-11,Schizophrenia Spectrum Disorders,Age,65+ years,220
+2024-11,Schizophrenia Spectrum Disorders,Age,All,405
+2024-10,Schizophrenia Spectrum Disorders,Age,12-17 years,50
+2024-10,Schizophrenia Spectrum Disorders,Age,18-34 years,510
+2024-10,Schizophrenia Spectrum Disorders,Age,35-64 years,642
+2024-10,Schizophrenia Spectrum Disorders,Age,65+ years,218
+2024-10,Schizophrenia Spectrum Disorders,Age,All,399
+2024-09,Schizophrenia Spectrum Disorders,Age,12-17 years,47
+2024-09,Schizophrenia Spectrum Disorders,Age,18-34 years,513
+2024-09,Schizophrenia Spectrum Disorders,Age,35-64 years,626
+2024-09,Schizophrenia Spectrum Disorders,Age,65+ years,218
+2024-09,Schizophrenia Spectrum Disorders,Age,All,397
+2024-08,Schizophrenia Spectrum Disorders,Age,12-17 years,54
+2024-08,Schizophrenia Spectrum Disorders,Age,18-34 years,524
+2024-08,Schizophrenia Spectrum Disorders,Age,35-64 years,636
+2024-08,Schizophrenia Spectrum Disorders,Age,65+ years,218
+2024-08,Schizophrenia Spectrum Disorders,Age,All,413
+2024-07,Schizophrenia Spectrum Disorders,Age,12-17 years,67
+2024-07,Schizophrenia Spectrum Disorders,Age,18-34 years,520
+2024-07,Schizophrenia Spectrum Disorders,Age,35-64 years,626
+2024-07,Schizophrenia Spectrum Disorders,Age,65+ years,209
+2024-07,Schizophrenia Spectrum Disorders,Age,All,412
+2024-06,Schizophrenia Spectrum Disorders,Age,12-17 years,57
+2024-06,Schizophrenia Spectrum Disorders,Age,18-34 years,528
+2024-06,Schizophrenia Spectrum Disorders,Age,35-64 years,631
+2024-06,Schizophrenia Spectrum Disorders,Age,65+ years,211
+2024-06,Schizophrenia Spectrum Disorders,Age,All,411
+2024-05,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2024-05,Schizophrenia Spectrum Disorders,Age,18-34 years,525
+2024-05,Schizophrenia Spectrum Disorders,Age,35-64 years,641
+2024-05,Schizophrenia Spectrum Disorders,Age,65+ years,216
+2024-05,Schizophrenia Spectrum Disorders,Age,All,404
+2024-04,Schizophrenia Spectrum Disorders,Age,12-17 years,54
+2024-04,Schizophrenia Spectrum Disorders,Age,18-34 years,543
+2024-04,Schizophrenia Spectrum Disorders,Age,35-64 years,662
+2024-04,Schizophrenia Spectrum Disorders,Age,65+ years,224
+2024-04,Schizophrenia Spectrum Disorders,Age,All,416
+2024-03,Schizophrenia Spectrum Disorders,Age,12-17 years,49
+2024-03,Schizophrenia Spectrum Disorders,Age,18-34 years,556
+2024-03,Schizophrenia Spectrum Disorders,Age,35-64 years,668
+2024-03,Schizophrenia Spectrum Disorders,Age,65+ years,216
+2024-03,Schizophrenia Spectrum Disorders,Age,All,417
+2024-02,Schizophrenia Spectrum Disorders,Age,12-17 years,51
+2024-02,Schizophrenia Spectrum Disorders,Age,18-34 years,536
+2024-02,Schizophrenia Spectrum Disorders,Age,35-64 years,660
+2024-02,Schizophrenia Spectrum Disorders,Age,65+ years,221
+2024-02,Schizophrenia Spectrum Disorders,Age,All,409
+2024-01,Schizophrenia Spectrum Disorders,Age,12-17 years,59
+2024-01,Schizophrenia Spectrum Disorders,Age,18-34 years,550
+2024-01,Schizophrenia Spectrum Disorders,Age,35-64 years,645
+2024-01,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2024-01,Schizophrenia Spectrum Disorders,Age,All,417
+2023-12,Schizophrenia Spectrum Disorders,Age,12-17 years,48
+2023-12,Schizophrenia Spectrum Disorders,Age,18-34 years,499
+2023-12,Schizophrenia Spectrum Disorders,Age,35-64 years,603
+2023-12,Schizophrenia Spectrum Disorders,Age,65+ years,208
+2023-12,Schizophrenia Spectrum Disorders,Age,All,370
+2023-11,Schizophrenia Spectrum Disorders,Age,12-17 years,51
+2023-11,Schizophrenia Spectrum Disorders,Age,18-34 years,527
+2023-11,Schizophrenia Spectrum Disorders,Age,35-64 years,644
+2023-11,Schizophrenia Spectrum Disorders,Age,65+ years,221
+2023-11,Schizophrenia Spectrum Disorders,Age,All,395
+2023-10,Schizophrenia Spectrum Disorders,Age,12-17 years,54
+2023-10,Schizophrenia Spectrum Disorders,Age,18-34 years,539
+2023-10,Schizophrenia Spectrum Disorders,Age,35-64 years,647
+2023-10,Schizophrenia Spectrum Disorders,Age,65+ years,217
+2023-10,Schizophrenia Spectrum Disorders,Age,All,404
+2023-09,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2023-09,Schizophrenia Spectrum Disorders,Age,18-34 years,529
+2023-09,Schizophrenia Spectrum Disorders,Age,35-64 years,627
+2023-09,Schizophrenia Spectrum Disorders,Age,65+ years,215
+2023-09,Schizophrenia Spectrum Disorders,Age,All,399
+2023-08,Schizophrenia Spectrum Disorders,Age,12-17 years,49
+2023-08,Schizophrenia Spectrum Disorders,Age,18-34 years,532
+2023-08,Schizophrenia Spectrum Disorders,Age,35-64 years,625
+2023-08,Schizophrenia Spectrum Disorders,Age,65+ years,213
+2023-08,Schizophrenia Spectrum Disorders,Age,All,411
+2023-07,Schizophrenia Spectrum Disorders,Age,12-17 years,66
+2023-07,Schizophrenia Spectrum Disorders,Age,18-34 years,540
+2023-07,Schizophrenia Spectrum Disorders,Age,35-64 years,628
+2023-07,Schizophrenia Spectrum Disorders,Age,65+ years,213
+2023-07,Schizophrenia Spectrum Disorders,Age,All,420
+2023-06,Schizophrenia Spectrum Disorders,Age,12-17 years,61
+2023-06,Schizophrenia Spectrum Disorders,Age,18-34 years,553
+2023-06,Schizophrenia Spectrum Disorders,Age,35-64 years,648
+2023-06,Schizophrenia Spectrum Disorders,Age,65+ years,215
+2023-06,Schizophrenia Spectrum Disorders,Age,All,424
+2023-05,Schizophrenia Spectrum Disorders,Age,12-17 years,53
+2023-05,Schizophrenia Spectrum Disorders,Age,18-34 years,551
+2023-05,Schizophrenia Spectrum Disorders,Age,35-64 years,655
+2023-05,Schizophrenia Spectrum Disorders,Age,65+ years,215
+2023-05,Schizophrenia Spectrum Disorders,Age,All,411
+2023-04,Schizophrenia Spectrum Disorders,Age,12-17 years,53
+2023-04,Schizophrenia Spectrum Disorders,Age,18-34 years,566
+2023-04,Schizophrenia Spectrum Disorders,Age,35-64 years,671
+2023-04,Schizophrenia Spectrum Disorders,Age,65+ years,222
+2023-04,Schizophrenia Spectrum Disorders,Age,All,421
+2023-03,Schizophrenia Spectrum Disorders,Age,12-17 years,58
+2023-03,Schizophrenia Spectrum Disorders,Age,18-34 years,582
+2023-03,Schizophrenia Spectrum Disorders,Age,35-64 years,686
+2023-03,Schizophrenia Spectrum Disorders,Age,65+ years,231
+2023-03,Schizophrenia Spectrum Disorders,Age,All,431
+2023-02,Schizophrenia Spectrum Disorders,Age,12-17 years,59
+2023-02,Schizophrenia Spectrum Disorders,Age,18-34 years,580
+2023-02,Schizophrenia Spectrum Disorders,Age,35-64 years,691
+2023-02,Schizophrenia Spectrum Disorders,Age,65+ years,226
+2023-02,Schizophrenia Spectrum Disorders,Age,All,432
+2023-01,Schizophrenia Spectrum Disorders,Age,12-17 years,59
+2023-01,Schizophrenia Spectrum Disorders,Age,18-34 years,576
+2023-01,Schizophrenia Spectrum Disorders,Age,35-64 years,678
+2023-01,Schizophrenia Spectrum Disorders,Age,65+ years,222
+2023-01,Schizophrenia Spectrum Disorders,Age,All,434
+2022-12,Schizophrenia Spectrum Disorders,Age,12-17 years,47
+2022-12,Schizophrenia Spectrum Disorders,Age,18-34 years,531
+2022-12,Schizophrenia Spectrum Disorders,Age,35-64 years,635
+2022-12,Schizophrenia Spectrum Disorders,Age,65+ years,217
+2022-12,Schizophrenia Spectrum Disorders,Age,All,392
+2022-11,Schizophrenia Spectrum Disorders,Age,12-17 years,44
+2022-11,Schizophrenia Spectrum Disorders,Age,18-34 years,510
+2022-11,Schizophrenia Spectrum Disorders,Age,35-64 years,635
+2022-11,Schizophrenia Spectrum Disorders,Age,65+ years,213
+2022-11,Schizophrenia Spectrum Disorders,Age,All,372
+2022-10,Schizophrenia Spectrum Disorders,Age,12-17 years,47
+2022-10,Schizophrenia Spectrum Disorders,Age,18-34 years,549
+2022-10,Schizophrenia Spectrum Disorders,Age,35-64 years,654
+2022-10,Schizophrenia Spectrum Disorders,Age,65+ years,210
+2022-10,Schizophrenia Spectrum Disorders,Age,All,392
+2022-09,Schizophrenia Spectrum Disorders,Age,12-17 years,50
+2022-09,Schizophrenia Spectrum Disorders,Age,18-34 years,543
+2022-09,Schizophrenia Spectrum Disorders,Age,35-64 years,641
+2022-09,Schizophrenia Spectrum Disorders,Age,65+ years,210
+2022-09,Schizophrenia Spectrum Disorders,Age,All,398
+2022-08,Schizophrenia Spectrum Disorders,Age,12-17 years,52
+2022-08,Schizophrenia Spectrum Disorders,Age,18-34 years,543
+2022-08,Schizophrenia Spectrum Disorders,Age,35-64 years,645
+2022-08,Schizophrenia Spectrum Disorders,Age,65+ years,211
+2022-08,Schizophrenia Spectrum Disorders,Age,All,416
+2022-07,Schizophrenia Spectrum Disorders,Age,12-17 years,64
+2022-07,Schizophrenia Spectrum Disorders,Age,18-34 years,533
+2022-07,Schizophrenia Spectrum Disorders,Age,35-64 years,640
+2022-07,Schizophrenia Spectrum Disorders,Age,65+ years,205
+2022-07,Schizophrenia Spectrum Disorders,Age,All,417
+2022-06,Schizophrenia Spectrum Disorders,Age,12-17 years,60
+2022-06,Schizophrenia Spectrum Disorders,Age,18-34 years,543
+2022-06,Schizophrenia Spectrum Disorders,Age,35-64 years,658
+2022-06,Schizophrenia Spectrum Disorders,Age,65+ years,211
+2022-06,Schizophrenia Spectrum Disorders,Age,All,421
+2022-05,Schizophrenia Spectrum Disorders,Age,12-17 years,56
+2022-05,Schizophrenia Spectrum Disorders,Age,18-34 years,563
+2022-05,Schizophrenia Spectrum Disorders,Age,35-64 years,663
+2022-05,Schizophrenia Spectrum Disorders,Age,65+ years,211
+2022-05,Schizophrenia Spectrum Disorders,Age,All,416
+2022-04,Schizophrenia Spectrum Disorders,Age,12-17 years,66
+2022-04,Schizophrenia Spectrum Disorders,Age,18-34 years,579
+2022-04,Schizophrenia Spectrum Disorders,Age,35-64 years,715
+2022-04,Schizophrenia Spectrum Disorders,Age,65+ years,225
+2022-04,Schizophrenia Spectrum Disorders,Age,All,444
+2022-03,Schizophrenia Spectrum Disorders,Age,12-17 years,65
+2022-03,Schizophrenia Spectrum Disorders,Age,18-34 years,632
+2022-03,Schizophrenia Spectrum Disorders,Age,35-64 years,745
+2022-03,Schizophrenia Spectrum Disorders,Age,65+ years,225
+2022-03,Schizophrenia Spectrum Disorders,Age,All,470
+2022-02,Schizophrenia Spectrum Disorders,Age,12-17 years,72
+2022-02,Schizophrenia Spectrum Disorders,Age,18-34 years,658
+2022-02,Schizophrenia Spectrum Disorders,Age,35-64 years,763
+2022-02,Schizophrenia Spectrum Disorders,Age,65+ years,229
+2022-02,Schizophrenia Spectrum Disorders,Age,All,491
+2022-01,Schizophrenia Spectrum Disorders,Age,12-17 years,66
+2022-01,Schizophrenia Spectrum Disorders,Age,18-34 years,547
+2022-01,Schizophrenia Spectrum Disorders,Age,35-64 years,660
+2022-01,Schizophrenia Spectrum Disorders,Age,65+ years,227
+2022-01,Schizophrenia Spectrum Disorders,Age,All,434
+2021-12,Schizophrenia Spectrum Disorders,Age,12-17 years,55
+2021-12,Schizophrenia Spectrum Disorders,Age,18-34 years,510
+2021-12,Schizophrenia Spectrum Disorders,Age,35-64 years,626
+2021-12,Schizophrenia Spectrum Disorders,Age,65+ years,213
+2021-12,Schizophrenia Spectrum Disorders,Age,All,399
+2021-11,Schizophrenia Spectrum Disorders,Age,12-17 years,66
+2021-11,Schizophrenia Spectrum Disorders,Age,18-34 years,572
+2021-11,Schizophrenia Spectrum Disorders,Age,35-64 years,683
+2021-11,Schizophrenia Spectrum Disorders,Age,65+ years,221
+2021-11,Schizophrenia Spectrum Disorders,Age,All,431
+2021-10,Schizophrenia Spectrum Disorders,Age,12-17 years,64
+2021-10,Schizophrenia Spectrum Disorders,Age,18-34 years,594
+2021-10,Schizophrenia Spectrum Disorders,Age,35-64 years,711
+2021-10,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2021-10,Schizophrenia Spectrum Disorders,Age,All,450
+2021-09,Schizophrenia Spectrum Disorders,Age,12-17 years,58
+2021-09,Schizophrenia Spectrum Disorders,Age,18-34 years,551
+2021-09,Schizophrenia Spectrum Disorders,Age,35-64 years,660
+2021-09,Schizophrenia Spectrum Disorders,Age,65+ years,220
+2021-09,Schizophrenia Spectrum Disorders,Age,All,422
+2021-08,Schizophrenia Spectrum Disorders,Age,12-17 years,61
+2021-08,Schizophrenia Spectrum Disorders,Age,18-34 years,527
+2021-08,Schizophrenia Spectrum Disorders,Age,35-64 years,634
+2021-08,Schizophrenia Spectrum Disorders,Age,65+ years,218
+2021-08,Schizophrenia Spectrum Disorders,Age,All,416
+2021-07,Schizophrenia Spectrum Disorders,Age,12-17 years,66
+2021-07,Schizophrenia Spectrum Disorders,Age,18-34 years,546
+2021-07,Schizophrenia Spectrum Disorders,Age,35-64 years,675
+2021-07,Schizophrenia Spectrum Disorders,Age,65+ years,225
+2021-07,Schizophrenia Spectrum Disorders,Age,All,441
+2021-06,Schizophrenia Spectrum Disorders,Age,12-17 years,76
+2021-06,Schizophrenia Spectrum Disorders,Age,18-34 years,595
+2021-06,Schizophrenia Spectrum Disorders,Age,35-64 years,721
+2021-06,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2021-06,Schizophrenia Spectrum Disorders,Age,All,472
+2021-05,Schizophrenia Spectrum Disorders,Age,12-17 years,75
+2021-05,Schizophrenia Spectrum Disorders,Age,18-34 years,626
+2021-05,Schizophrenia Spectrum Disorders,Age,35-64 years,748
+2021-05,Schizophrenia Spectrum Disorders,Age,65+ years,233
+2021-05,Schizophrenia Spectrum Disorders,Age,All,488
+2021-04,Schizophrenia Spectrum Disorders,Age,12-17 years,74
+2021-04,Schizophrenia Spectrum Disorders,Age,18-34 years,618
+2021-04,Schizophrenia Spectrum Disorders,Age,35-64 years,746
+2021-04,Schizophrenia Spectrum Disorders,Age,65+ years,239
+2021-04,Schizophrenia Spectrum Disorders,Age,All,492
+2021-03,Schizophrenia Spectrum Disorders,Age,12-17 years,85
+2021-03,Schizophrenia Spectrum Disorders,Age,18-34 years,687
+2021-03,Schizophrenia Spectrum Disorders,Age,35-64 years,824
+2021-03,Schizophrenia Spectrum Disorders,Age,65+ years,260
+2021-03,Schizophrenia Spectrum Disorders,Age,All,548
+2021-02,Schizophrenia Spectrum Disorders,Age,12-17 years,90
+2021-02,Schizophrenia Spectrum Disorders,Age,18-34 years,724
+2021-02,Schizophrenia Spectrum Disorders,Age,35-64 years,857
+2021-02,Schizophrenia Spectrum Disorders,Age,65+ years,259
+2021-02,Schizophrenia Spectrum Disorders,Age,All,580
+2021-01,Schizophrenia Spectrum Disorders,Age,12-17 years,88
+2021-01,Schizophrenia Spectrum Disorders,Age,18-34 years,684
+2021-01,Schizophrenia Spectrum Disorders,Age,35-64 years,822
+2021-01,Schizophrenia Spectrum Disorders,Age,65+ years,261
+2021-01,Schizophrenia Spectrum Disorders,Age,All,561
+2020-12,Schizophrenia Spectrum Disorders,Age,12-17 years,94
+2020-12,Schizophrenia Spectrum Disorders,Age,18-34 years,674
+2020-12,Schizophrenia Spectrum Disorders,Age,35-64 years,794
+2020-12,Schizophrenia Spectrum Disorders,Age,65+ years,259
+2020-12,Schizophrenia Spectrum Disorders,Age,All,549
+2020-11,Schizophrenia Spectrum Disorders,Age,12-17 years,89
+2020-11,Schizophrenia Spectrum Disorders,Age,18-34 years,646
+2020-11,Schizophrenia Spectrum Disorders,Age,35-64 years,794
+2020-11,Schizophrenia Spectrum Disorders,Age,65+ years,255
+2020-11,Schizophrenia Spectrum Disorders,Age,All,538
+2020-10,Schizophrenia Spectrum Disorders,Age,12-17 years,78
+2020-10,Schizophrenia Spectrum Disorders,Age,18-34 years,688
+2020-10,Schizophrenia Spectrum Disorders,Age,35-64 years,823
+2020-10,Schizophrenia Spectrum Disorders,Age,65+ years,266
+2020-10,Schizophrenia Spectrum Disorders,Age,All,559
+2020-09,Schizophrenia Spectrum Disorders,Age,12-17 years,94
+2020-09,Schizophrenia Spectrum Disorders,Age,18-34 years,698
+2020-09,Schizophrenia Spectrum Disorders,Age,35-64 years,884
+2020-09,Schizophrenia Spectrum Disorders,Age,65+ years,273
+2020-09,Schizophrenia Spectrum Disorders,Age,All,588
+2020-08,Schizophrenia Spectrum Disorders,Age,12-17 years,84
+2020-08,Schizophrenia Spectrum Disorders,Age,18-34 years,707
+2020-08,Schizophrenia Spectrum Disorders,Age,35-64 years,884
+2020-08,Schizophrenia Spectrum Disorders,Age,65+ years,278
+2020-08,Schizophrenia Spectrum Disorders,Age,All,600
+2020-07,Schizophrenia Spectrum Disorders,Age,12-17 years,77
+2020-07,Schizophrenia Spectrum Disorders,Age,18-34 years,687
+2020-07,Schizophrenia Spectrum Disorders,Age,35-64 years,858
+2020-07,Schizophrenia Spectrum Disorders,Age,65+ years,275
+2020-07,Schizophrenia Spectrum Disorders,Age,All,588
+2020-06,Schizophrenia Spectrum Disorders,Age,12-17 years,100
+2020-06,Schizophrenia Spectrum Disorders,Age,18-34 years,725
+2020-06,Schizophrenia Spectrum Disorders,Age,35-64 years,889
+2020-06,Schizophrenia Spectrum Disorders,Age,65+ years,285
+2020-06,Schizophrenia Spectrum Disorders,Age,All,612
+2020-05,Schizophrenia Spectrum Disorders,Age,12-17 years,113
+2020-05,Schizophrenia Spectrum Disorders,Age,18-34 years,828
+2020-05,Schizophrenia Spectrum Disorders,Age,35-64 years,983
+2020-05,Schizophrenia Spectrum Disorders,Age,65+ years,298
+2020-05,Schizophrenia Spectrum Disorders,Age,All,682
+2020-04,Schizophrenia Spectrum Disorders,Age,12-17 years,129
+2020-04,Schizophrenia Spectrum Disorders,Age,18-34 years,890
+2020-04,Schizophrenia Spectrum Disorders,Age,35-64 years,1042
+2020-04,Schizophrenia Spectrum Disorders,Age,65+ years,340
+2020-04,Schizophrenia Spectrum Disorders,Age,All,744
+2020-03,Schizophrenia Spectrum Disorders,Age,12-17 years,81
+2020-03,Schizophrenia Spectrum Disorders,Age,18-34 years,645
+2020-03,Schizophrenia Spectrum Disorders,Age,35-64 years,812
+2020-03,Schizophrenia Spectrum Disorders,Age,65+ years,269
+2020-03,Schizophrenia Spectrum Disorders,Age,All,534
+2020-02,Schizophrenia Spectrum Disorders,Age,12-17 years,65
+2020-02,Schizophrenia Spectrum Disorders,Age,18-34 years,576
+2020-02,Schizophrenia Spectrum Disorders,Age,35-64 years,759
+2020-02,Schizophrenia Spectrum Disorders,Age,65+ years,245
+2020-02,Schizophrenia Spectrum Disorders,Age,All,461
+2020-01,Schizophrenia Spectrum Disorders,Age,12-17 years,63
+2020-01,Schizophrenia Spectrum Disorders,Age,18-34 years,570
+2020-01,Schizophrenia Spectrum Disorders,Age,35-64 years,747
+2020-01,Schizophrenia Spectrum Disorders,Age,65+ years,238
+2020-01,Schizophrenia Spectrum Disorders,Age,All,456
+2019-12,Schizophrenia Spectrum Disorders,Age,12-17 years,56
+2019-12,Schizophrenia Spectrum Disorders,Age,18-34 years,558
+2019-12,Schizophrenia Spectrum Disorders,Age,35-64 years,726
+2019-12,Schizophrenia Spectrum Disorders,Age,65+ years,227
+2019-12,Schizophrenia Spectrum Disorders,Age,All,435
+2019-11,Schizophrenia Spectrum Disorders,Age,12-17 years,67
+2019-11,Schizophrenia Spectrum Disorders,Age,18-34 years,588
+2019-11,Schizophrenia Spectrum Disorders,Age,35-64 years,759
+2019-11,Schizophrenia Spectrum Disorders,Age,65+ years,232
+2019-11,Schizophrenia Spectrum Disorders,Age,All,460
+2019-10,Schizophrenia Spectrum Disorders,Age,12-17 years,65
+2019-10,Schizophrenia Spectrum Disorders,Age,18-34 years,577
+2019-10,Schizophrenia Spectrum Disorders,Age,35-64 years,754
+2019-10,Schizophrenia Spectrum Disorders,Age,65+ years,234
+2019-10,Schizophrenia Spectrum Disorders,Age,All,467
+2019-09,Schizophrenia Spectrum Disorders,Age,12-17 years,63
+2019-09,Schizophrenia Spectrum Disorders,Age,18-34 years,569
+2019-09,Schizophrenia Spectrum Disorders,Age,35-64 years,732
+2019-09,Schizophrenia Spectrum Disorders,Age,65+ years,232
+2019-09,Schizophrenia Spectrum Disorders,Age,All,460
+2019-08,Schizophrenia Spectrum Disorders,Age,12-17 years,68
+2019-08,Schizophrenia Spectrum Disorders,Age,18-34 years,570
+2019-08,Schizophrenia Spectrum Disorders,Age,35-64 years,757
+2019-08,Schizophrenia Spectrum Disorders,Age,65+ years,236
+2019-08,Schizophrenia Spectrum Disorders,Age,All,482
+2019-07,Schizophrenia Spectrum Disorders,Age,12-17 years,68
+2019-07,Schizophrenia Spectrum Disorders,Age,18-34 years,572
+2019-07,Schizophrenia Spectrum Disorders,Age,35-64 years,738
+2019-07,Schizophrenia Spectrum Disorders,Age,65+ years,228
+2019-07,Schizophrenia Spectrum Disorders,Age,All,478
+2019-06,Schizophrenia Spectrum Disorders,Age,12-17 years,61
+2019-06,Schizophrenia Spectrum Disorders,Age,18-34 years,558
+2019-06,Schizophrenia Spectrum Disorders,Age,35-64 years,712
+2019-06,Schizophrenia Spectrum Disorders,Age,65+ years,219
+2019-06,Schizophrenia Spectrum Disorders,Age,All,457
+2019-05,Schizophrenia Spectrum Disorders,Age,12-17 years,63
+2019-05,Schizophrenia Spectrum Disorders,Age,18-34 years,555
+2019-05,Schizophrenia Spectrum Disorders,Age,35-64 years,710
+2019-05,Schizophrenia Spectrum Disorders,Age,65+ years,220
+2019-05,Schizophrenia Spectrum Disorders,Age,All,444
+2019-04,Schizophrenia Spectrum Disorders,Age,12-17 years,57
+2019-04,Schizophrenia Spectrum Disorders,Age,18-34 years,561
+2019-04,Schizophrenia Spectrum Disorders,Age,35-64 years,727
+2019-04,Schizophrenia Spectrum Disorders,Age,65+ years,223
+2019-04,Schizophrenia Spectrum Disorders,Age,All,449
+2019-03,Schizophrenia Spectrum Disorders,Age,12-17 years,58
+2019-03,Schizophrenia Spectrum Disorders,Age,18-34 years,542
+2019-03,Schizophrenia Spectrum Disorders,Age,35-64 years,698
+2019-03,Schizophrenia Spectrum Disorders,Age,65+ years,214
+2019-03,Schizophrenia Spectrum Disorders,Age,All,428
+2019-02,Schizophrenia Spectrum Disorders,Age,12-17 years,61
+2019-02,Schizophrenia Spectrum Disorders,Age,18-34 years,542
+2019-02,Schizophrenia Spectrum Disorders,Age,35-64 years,685
+2019-02,Schizophrenia Spectrum Disorders,Age,65+ years,215
+2019-02,Schizophrenia Spectrum Disorders,Age,All,423
+2019-01,Schizophrenia Spectrum Disorders,Age,12-17 years,57
+2019-01,Schizophrenia Spectrum Disorders,Age,18-34 years,498
+2019-01,Schizophrenia Spectrum Disorders,Age,35-64 years,653
+2019-01,Schizophrenia Spectrum Disorders,Age,65+ years,199
+2019-01,Schizophrenia Spectrum Disorders,Age,All,405
+2025-12,Suspected Suicide Attempts,Age,12-17 years,699
+2025-12,Suspected Suicide Attempts,Age,18-34 years,229
+2025-12,Suspected Suicide Attempts,Age,35-64 years,124
+2025-12,Suspected Suicide Attempts,Age,65+ years,32
+2025-12,Suspected Suicide Attempts,Age,All,136
+2025-11,Suspected Suicide Attempts,Age,12-17 years,905
+2025-11,Suspected Suicide Attempts,Age,18-34 years,274
+2025-11,Suspected Suicide Attempts,Age,35-64 years,136
+2025-11,Suspected Suicide Attempts,Age,65+ years,35
+2025-11,Suspected Suicide Attempts,Age,All,165
+2025-10,Suspected Suicide Attempts,Age,12-17 years,817
+2025-10,Suspected Suicide Attempts,Age,18-34 years,263
+2025-10,Suspected Suicide Attempts,Age,35-64 years,133
+2025-10,Suspected Suicide Attempts,Age,65+ years,35
+2025-10,Suspected Suicide Attempts,Age,All,160
+2025-09,Suspected Suicide Attempts,Age,12-17 years,734
+2025-09,Suspected Suicide Attempts,Age,18-34 years,263
+2025-09,Suspected Suicide Attempts,Age,35-64 years,133
+2025-09,Suspected Suicide Attempts,Age,65+ years,32
+2025-09,Suspected Suicide Attempts,Age,All,158
+2025-08,Suspected Suicide Attempts,Age,12-17 years,723
+2025-08,Suspected Suicide Attempts,Age,18-34 years,258
+2025-08,Suspected Suicide Attempts,Age,35-64 years,133
+2025-08,Suspected Suicide Attempts,Age,65+ years,36
+2025-08,Suspected Suicide Attempts,Age,All,152
+2025-07,Suspected Suicide Attempts,Age,12-17 years,790
+2025-07,Suspected Suicide Attempts,Age,18-34 years,264
+2025-07,Suspected Suicide Attempts,Age,35-64 years,135
+2025-07,Suspected Suicide Attempts,Age,65+ years,36
+2025-07,Suspected Suicide Attempts,Age,All,154
+2025-06,Suspected Suicide Attempts,Age,12-17 years,771
+2025-06,Suspected Suicide Attempts,Age,18-34 years,263
+2025-06,Suspected Suicide Attempts,Age,35-64 years,134
+2025-06,Suspected Suicide Attempts,Age,65+ years,36
+2025-06,Suspected Suicide Attempts,Age,All,151
+2025-05,Suspected Suicide Attempts,Age,12-17 years,779
+2025-05,Suspected Suicide Attempts,Age,18-34 years,263
+2025-05,Suspected Suicide Attempts,Age,35-64 years,134
+2025-05,Suspected Suicide Attempts,Age,65+ years,36
+2025-05,Suspected Suicide Attempts,Age,All,155
+2025-04,Suspected Suicide Attempts,Age,12-17 years,776
+2025-04,Suspected Suicide Attempts,Age,18-34 years,256
+2025-04,Suspected Suicide Attempts,Age,35-64 years,130
+2025-04,Suspected Suicide Attempts,Age,65+ years,34
+2025-04,Suspected Suicide Attempts,Age,All,153
+2025-03,Suspected Suicide Attempts,Age,12-17 years,769
+2025-03,Suspected Suicide Attempts,Age,18-34 years,251
+2025-03,Suspected Suicide Attempts,Age,35-64 years,128
+2025-03,Suspected Suicide Attempts,Age,65+ years,32
+2025-03,Suspected Suicide Attempts,Age,All,149
+2025-02,Suspected Suicide Attempts,Age,12-17 years,689
+2025-02,Suspected Suicide Attempts,Age,18-34 years,237
+2025-02,Suspected Suicide Attempts,Age,35-64 years,119
+2025-02,Suspected Suicide Attempts,Age,65+ years,31
+2025-02,Suspected Suicide Attempts,Age,All,138
+2025-01,Suspected Suicide Attempts,Age,12-17 years,689
+2025-01,Suspected Suicide Attempts,Age,18-34 years,223
+2025-01,Suspected Suicide Attempts,Age,35-64 years,116
+2025-01,Suspected Suicide Attempts,Age,65+ years,32
+2025-01,Suspected Suicide Attempts,Age,All,134
+2024-12,Suspected Suicide Attempts,Age,12-17 years,627
+2024-12,Suspected Suicide Attempts,Age,18-34 years,224
+2024-12,Suspected Suicide Attempts,Age,35-64 years,120
+2024-12,Suspected Suicide Attempts,Age,65+ years,28
+2024-12,Suspected Suicide Attempts,Age,All,129
+2024-11,Suspected Suicide Attempts,Age,12-17 years,693
+2024-11,Suspected Suicide Attempts,Age,18-34 years,251
+2024-11,Suspected Suicide Attempts,Age,35-64 years,133
+2024-11,Suspected Suicide Attempts,Age,65+ years,33
+2024-11,Suspected Suicide Attempts,Age,All,148
+2024-10,Suspected Suicide Attempts,Age,12-17 years,698
+2024-10,Suspected Suicide Attempts,Age,18-34 years,259
+2024-10,Suspected Suicide Attempts,Age,35-64 years,133
+2024-10,Suspected Suicide Attempts,Age,65+ years,34
+2024-10,Suspected Suicide Attempts,Age,All,155
+2024-09,Suspected Suicide Attempts,Age,12-17 years,694
+2024-09,Suspected Suicide Attempts,Age,18-34 years,260
+2024-09,Suspected Suicide Attempts,Age,35-64 years,136
+2024-09,Suspected Suicide Attempts,Age,65+ years,35
+2024-09,Suspected Suicide Attempts,Age,All,157
+2024-08,Suspected Suicide Attempts,Age,12-17 years,671
+2024-08,Suspected Suicide Attempts,Age,18-34 years,251
+2024-08,Suspected Suicide Attempts,Age,35-64 years,134
+2024-08,Suspected Suicide Attempts,Age,65+ years,34
+2024-08,Suspected Suicide Attempts,Age,All,150
+2024-07,Suspected Suicide Attempts,Age,12-17 years,712
+2024-07,Suspected Suicide Attempts,Age,18-34 years,246
+2024-07,Suspected Suicide Attempts,Age,35-64 years,136
+2024-07,Suspected Suicide Attempts,Age,65+ years,34
+2024-07,Suspected Suicide Attempts,Age,All,148
+2024-06,Suspected Suicide Attempts,Age,12-17 years,678
+2024-06,Suspected Suicide Attempts,Age,18-34 years,253
+2024-06,Suspected Suicide Attempts,Age,35-64 years,134
+2024-06,Suspected Suicide Attempts,Age,65+ years,35
+2024-06,Suspected Suicide Attempts,Age,All,147
+2024-05,Suspected Suicide Attempts,Age,12-17 years,727
+2024-05,Suspected Suicide Attempts,Age,18-34 years,246
+2024-05,Suspected Suicide Attempts,Age,35-64 years,130
+2024-05,Suspected Suicide Attempts,Age,65+ years,34
+2024-05,Suspected Suicide Attempts,Age,All,149
+2024-04,Suspected Suicide Attempts,Age,12-17 years,767
+2024-04,Suspected Suicide Attempts,Age,18-34 years,250
+2024-04,Suspected Suicide Attempts,Age,35-64 years,130
+2024-04,Suspected Suicide Attempts,Age,65+ years,33
+2024-04,Suspected Suicide Attempts,Age,All,153
+2024-03,Suspected Suicide Attempts,Age,12-17 years,692
+2024-03,Suspected Suicide Attempts,Age,18-34 years,244
+2024-03,Suspected Suicide Attempts,Age,35-64 years,127
+2024-03,Suspected Suicide Attempts,Age,65+ years,32
+2024-03,Suspected Suicide Attempts,Age,All,144
+2024-02,Suspected Suicide Attempts,Age,12-17 years,667
+2024-02,Suspected Suicide Attempts,Age,18-34 years,242
+2024-02,Suspected Suicide Attempts,Age,35-64 years,121
+2024-02,Suspected Suicide Attempts,Age,65+ years,28
+2024-02,Suspected Suicide Attempts,Age,All,141
+2024-01,Suspected Suicide Attempts,Age,12-17 years,707
+2024-01,Suspected Suicide Attempts,Age,18-34 years,245
+2024-01,Suspected Suicide Attempts,Age,35-64 years,123
+2024-01,Suspected Suicide Attempts,Age,65+ years,29
+2024-01,Suspected Suicide Attempts,Age,All,143
+2023-12,Suspected Suicide Attempts,Age,12-17 years,569
+2023-12,Suspected Suicide Attempts,Age,18-34 years,220
+2023-12,Suspected Suicide Attempts,Age,35-64 years,117
+2023-12,Suspected Suicide Attempts,Age,65+ years,29
+2023-12,Suspected Suicide Attempts,Age,All,124
+2023-11,Suspected Suicide Attempts,Age,12-17 years,682
+2023-11,Suspected Suicide Attempts,Age,18-34 years,243
+2023-11,Suspected Suicide Attempts,Age,35-64 years,125
+2023-11,Suspected Suicide Attempts,Age,65+ years,30
+2023-11,Suspected Suicide Attempts,Age,All,141
+2023-10,Suspected Suicide Attempts,Age,12-17 years,652
+2023-10,Suspected Suicide Attempts,Age,18-34 years,260
+2023-10,Suspected Suicide Attempts,Age,35-64 years,133
+2023-10,Suspected Suicide Attempts,Age,65+ years,31
+2023-10,Suspected Suicide Attempts,Age,All,150
+2023-09,Suspected Suicide Attempts,Age,12-17 years,618
+2023-09,Suspected Suicide Attempts,Age,18-34 years,249
+2023-09,Suspected Suicide Attempts,Age,35-64 years,136
+2023-09,Suspected Suicide Attempts,Age,65+ years,32
+2023-09,Suspected Suicide Attempts,Age,All,150
+2023-08,Suspected Suicide Attempts,Age,12-17 years,637
+2023-08,Suspected Suicide Attempts,Age,18-34 years,251
+2023-08,Suspected Suicide Attempts,Age,35-64 years,138
+2023-08,Suspected Suicide Attempts,Age,65+ years,34
+2023-08,Suspected Suicide Attempts,Age,All,150
+2023-07,Suspected Suicide Attempts,Age,12-17 years,678
+2023-07,Suspected Suicide Attempts,Age,18-34 years,262
+2023-07,Suspected Suicide Attempts,Age,35-64 years,139
+2023-07,Suspected Suicide Attempts,Age,65+ years,34
+2023-07,Suspected Suicide Attempts,Age,All,152
+2023-06,Suspected Suicide Attempts,Age,12-17 years,680
+2023-06,Suspected Suicide Attempts,Age,18-34 years,249
+2023-06,Suspected Suicide Attempts,Age,35-64 years,139
+2023-06,Suspected Suicide Attempts,Age,65+ years,34
+2023-06,Suspected Suicide Attempts,Age,All,148
+2023-05,Suspected Suicide Attempts,Age,12-17 years,753
+2023-05,Suspected Suicide Attempts,Age,18-34 years,265
+2023-05,Suspected Suicide Attempts,Age,35-64 years,137
+2023-05,Suspected Suicide Attempts,Age,65+ years,32
+2023-05,Suspected Suicide Attempts,Age,All,157
+2023-04,Suspected Suicide Attempts,Age,12-17 years,845
+2023-04,Suspected Suicide Attempts,Age,18-34 years,275
+2023-04,Suspected Suicide Attempts,Age,35-64 years,137
+2023-04,Suspected Suicide Attempts,Age,65+ years,32
+2023-04,Suspected Suicide Attempts,Age,All,164
+2023-03,Suspected Suicide Attempts,Age,12-17 years,883
+2023-03,Suspected Suicide Attempts,Age,18-34 years,258
+2023-03,Suspected Suicide Attempts,Age,35-64 years,135
+2023-03,Suspected Suicide Attempts,Age,65+ years,30
+2023-03,Suspected Suicide Attempts,Age,All,161
+2023-02,Suspected Suicide Attempts,Age,12-17 years,924
+2023-02,Suspected Suicide Attempts,Age,18-34 years,276
+2023-02,Suspected Suicide Attempts,Age,35-64 years,138
+2023-02,Suspected Suicide Attempts,Age,65+ years,31
+2023-02,Suspected Suicide Attempts,Age,All,169
+2023-01,Suspected Suicide Attempts,Age,12-17 years,927
+2023-01,Suspected Suicide Attempts,Age,18-34 years,273
+2023-01,Suspected Suicide Attempts,Age,35-64 years,135
+2023-01,Suspected Suicide Attempts,Age,65+ years,30
+2023-01,Suspected Suicide Attempts,Age,All,167
+2022-12,Suspected Suicide Attempts,Age,12-17 years,679
+2022-12,Suspected Suicide Attempts,Age,18-34 years,236
+2022-12,Suspected Suicide Attempts,Age,35-64 years,123
+2022-12,Suspected Suicide Attempts,Age,65+ years,30
+2022-12,Suspected Suicide Attempts,Age,All,136
+2022-11,Suspected Suicide Attempts,Age,12-17 years,674
+2022-11,Suspected Suicide Attempts,Age,18-34 years,240
+2022-11,Suspected Suicide Attempts,Age,35-64 years,122
+2022-11,Suspected Suicide Attempts,Age,65+ years,29
+2022-11,Suspected Suicide Attempts,Age,All,139
+2022-10,Suspected Suicide Attempts,Age,12-17 years,694
+2022-10,Suspected Suicide Attempts,Age,18-34 years,264
+2022-10,Suspected Suicide Attempts,Age,35-64 years,135
+2022-10,Suspected Suicide Attempts,Age,65+ years,31
+2022-10,Suspected Suicide Attempts,Age,All,152
+2022-09,Suspected Suicide Attempts,Age,12-17 years,706
+2022-09,Suspected Suicide Attempts,Age,18-34 years,269
+2022-09,Suspected Suicide Attempts,Age,35-64 years,133
+2022-09,Suspected Suicide Attempts,Age,65+ years,33
+2022-09,Suspected Suicide Attempts,Age,All,157
+2022-08,Suspected Suicide Attempts,Age,12-17 years,651
+2022-08,Suspected Suicide Attempts,Age,18-34 years,250
+2022-08,Suspected Suicide Attempts,Age,35-64 years,134
+2022-08,Suspected Suicide Attempts,Age,65+ years,32
+2022-08,Suspected Suicide Attempts,Age,All,148
+2022-07,Suspected Suicide Attempts,Age,12-17 years,681
+2022-07,Suspected Suicide Attempts,Age,18-34 years,246
+2022-07,Suspected Suicide Attempts,Age,35-64 years,133
+2022-07,Suspected Suicide Attempts,Age,65+ years,32
+2022-07,Suspected Suicide Attempts,Age,All,145
+2022-06,Suspected Suicide Attempts,Age,12-17 years,689
+2022-06,Suspected Suicide Attempts,Age,18-34 years,248
+2022-06,Suspected Suicide Attempts,Age,35-64 years,136
+2022-06,Suspected Suicide Attempts,Age,65+ years,32
+2022-06,Suspected Suicide Attempts,Age,All,146
+2022-05,Suspected Suicide Attempts,Age,12-17 years,786
+2022-05,Suspected Suicide Attempts,Age,18-34 years,260
+2022-05,Suspected Suicide Attempts,Age,35-64 years,136
+2022-05,Suspected Suicide Attempts,Age,65+ years,34
+2022-05,Suspected Suicide Attempts,Age,All,159
+2022-04,Suspected Suicide Attempts,Age,12-17 years,854
+2022-04,Suspected Suicide Attempts,Age,18-34 years,256
+2022-04,Suspected Suicide Attempts,Age,35-64 years,132
+2022-04,Suspected Suicide Attempts,Age,65+ years,30
+2022-04,Suspected Suicide Attempts,Age,All,161
+2022-03,Suspected Suicide Attempts,Age,12-17 years,963
+2022-03,Suspected Suicide Attempts,Age,18-34 years,271
+2022-03,Suspected Suicide Attempts,Age,35-64 years,136
+2022-03,Suspected Suicide Attempts,Age,65+ years,30
+2022-03,Suspected Suicide Attempts,Age,All,172
+2022-02,Suspected Suicide Attempts,Age,12-17 years,1128
+2022-02,Suspected Suicide Attempts,Age,18-34 years,304
+2022-02,Suspected Suicide Attempts,Age,35-64 years,137
+2022-02,Suspected Suicide Attempts,Age,65+ years,32
+2022-02,Suspected Suicide Attempts,Age,All,189
+2022-01,Suspected Suicide Attempts,Age,12-17 years,883
+2022-01,Suspected Suicide Attempts,Age,18-34 years,240
+2022-01,Suspected Suicide Attempts,Age,35-64 years,119
+2022-01,Suspected Suicide Attempts,Age,65+ years,29
+2022-01,Suspected Suicide Attempts,Age,All,154
+2021-12,Suspected Suicide Attempts,Age,12-17 years,772
+2021-12,Suspected Suicide Attempts,Age,18-34 years,217
+2021-12,Suspected Suicide Attempts,Age,35-64 years,109
+2021-12,Suspected Suicide Attempts,Age,65+ years,28
+2021-12,Suspected Suicide Attempts,Age,All,137
+2021-11,Suspected Suicide Attempts,Age,12-17 years,985
+2021-11,Suspected Suicide Attempts,Age,18-34 years,266
+2021-11,Suspected Suicide Attempts,Age,35-64 years,121
+2021-11,Suspected Suicide Attempts,Age,65+ years,28
+2021-11,Suspected Suicide Attempts,Age,All,165
+2021-10,Suspected Suicide Attempts,Age,12-17 years,878
+2021-10,Suspected Suicide Attempts,Age,18-34 years,268
+2021-10,Suspected Suicide Attempts,Age,35-64 years,127
+2021-10,Suspected Suicide Attempts,Age,65+ years,30
+2021-10,Suspected Suicide Attempts,Age,All,166
+2021-09,Suspected Suicide Attempts,Age,12-17 years,776
+2021-09,Suspected Suicide Attempts,Age,18-34 years,240
+2021-09,Suspected Suicide Attempts,Age,35-64 years,120
+2021-09,Suspected Suicide Attempts,Age,65+ years,32
+2021-09,Suspected Suicide Attempts,Age,All,155
+2021-08,Suspected Suicide Attempts,Age,12-17 years,628
+2021-08,Suspected Suicide Attempts,Age,18-34 years,213
+2021-08,Suspected Suicide Attempts,Age,35-64 years,116
+2021-08,Suspected Suicide Attempts,Age,65+ years,30
+2021-08,Suspected Suicide Attempts,Age,All,135
+2021-07,Suspected Suicide Attempts,Age,12-17 years,728
+2021-07,Suspected Suicide Attempts,Age,18-34 years,226
+2021-07,Suspected Suicide Attempts,Age,35-64 years,119
+2021-07,Suspected Suicide Attempts,Age,65+ years,32
+2021-07,Suspected Suicide Attempts,Age,All,140
+2021-06,Suspected Suicide Attempts,Age,12-17 years,846
+2021-06,Suspected Suicide Attempts,Age,18-34 years,243
+2021-06,Suspected Suicide Attempts,Age,35-64 years,127
+2021-06,Suspected Suicide Attempts,Age,65+ years,32
+2021-06,Suspected Suicide Attempts,Age,All,152
+2021-05,Suspected Suicide Attempts,Age,12-17 years,1056
+2021-05,Suspected Suicide Attempts,Age,18-34 years,255
+2021-05,Suspected Suicide Attempts,Age,35-64 years,122
+2021-05,Suspected Suicide Attempts,Age,65+ years,32
+2021-05,Suspected Suicide Attempts,Age,All,168
+2021-04,Suspected Suicide Attempts,Age,12-17 years,1093
+2021-04,Suspected Suicide Attempts,Age,18-34 years,243
+2021-04,Suspected Suicide Attempts,Age,35-64 years,114
+2021-04,Suspected Suicide Attempts,Age,65+ years,27
+2021-04,Suspected Suicide Attempts,Age,All,164
+2021-03,Suspected Suicide Attempts,Age,12-17 years,1168
+2021-03,Suspected Suicide Attempts,Age,18-34 years,263
+2021-03,Suspected Suicide Attempts,Age,35-64 years,126
+2021-03,Suspected Suicide Attempts,Age,65+ years,30
+2021-03,Suspected Suicide Attempts,Age,All,176
+2021-02,Suspected Suicide Attempts,Age,12-17 years,1352
+2021-02,Suspected Suicide Attempts,Age,18-34 years,290
+2021-02,Suspected Suicide Attempts,Age,35-64 years,131
+2021-02,Suspected Suicide Attempts,Age,65+ years,31
+2021-02,Suspected Suicide Attempts,Age,All,191
+2021-01,Suspected Suicide Attempts,Age,12-17 years,1165
+2021-01,Suspected Suicide Attempts,Age,18-34 years,266
+2021-01,Suspected Suicide Attempts,Age,35-64 years,126
+2021-01,Suspected Suicide Attempts,Age,65+ years,27
+2021-01,Suspected Suicide Attempts,Age,All,173
+2020-12,Suspected Suicide Attempts,Age,12-17 years,1056
+2020-12,Suspected Suicide Attempts,Age,18-34 years,260
+2020-12,Suspected Suicide Attempts,Age,35-64 years,120
+2020-12,Suspected Suicide Attempts,Age,65+ years,27
+2020-12,Suspected Suicide Attempts,Age,All,161
+2020-11,Suspected Suicide Attempts,Age,12-17 years,1114
+2020-11,Suspected Suicide Attempts,Age,18-34 years,261
+2020-11,Suspected Suicide Attempts,Age,35-64 years,122
+2020-11,Suspected Suicide Attempts,Age,65+ years,29
+2020-11,Suspected Suicide Attempts,Age,All,170
+2020-10,Suspected Suicide Attempts,Age,12-17 years,1028
+2020-10,Suspected Suicide Attempts,Age,18-34 years,266
+2020-10,Suspected Suicide Attempts,Age,35-64 years,127
+2020-10,Suspected Suicide Attempts,Age,65+ years,30
+2020-10,Suspected Suicide Attempts,Age,All,173
+2020-09,Suspected Suicide Attempts,Age,12-17 years,969
+2020-09,Suspected Suicide Attempts,Age,18-34 years,262
+2020-09,Suspected Suicide Attempts,Age,35-64 years,136
+2020-09,Suspected Suicide Attempts,Age,65+ years,31
+2020-09,Suspected Suicide Attempts,Age,All,173
+2020-08,Suspected Suicide Attempts,Age,12-17 years,823
+2020-08,Suspected Suicide Attempts,Age,18-34 years,255
+2020-08,Suspected Suicide Attempts,Age,35-64 years,136
+2020-08,Suspected Suicide Attempts,Age,65+ years,34
+2020-08,Suspected Suicide Attempts,Age,All,163
+2020-07,Suspected Suicide Attempts,Age,12-17 years,730
+2020-07,Suspected Suicide Attempts,Age,18-34 years,242
+2020-07,Suspected Suicide Attempts,Age,35-64 years,132
+2020-07,Suspected Suicide Attempts,Age,65+ years,34
+2020-07,Suspected Suicide Attempts,Age,All,155
+2020-06,Suspected Suicide Attempts,Age,12-17 years,750
+2020-06,Suspected Suicide Attempts,Age,18-34 years,256
+2020-06,Suspected Suicide Attempts,Age,35-64 years,139
+2020-06,Suspected Suicide Attempts,Age,65+ years,32
+2020-06,Suspected Suicide Attempts,Age,All,160
+2020-05,Suspected Suicide Attempts,Age,12-17 years,1039
+2020-05,Suspected Suicide Attempts,Age,18-34 years,305
+2020-05,Suspected Suicide Attempts,Age,35-64 years,153
+2020-05,Suspected Suicide Attempts,Age,65+ years,34
+2020-05,Suspected Suicide Attempts,Age,All,185
+2020-04,Suspected Suicide Attempts,Age,12-17 years,1279
+2020-04,Suspected Suicide Attempts,Age,18-34 years,325
+2020-04,Suspected Suicide Attempts,Age,35-64 years,161
+2020-04,Suspected Suicide Attempts,Age,65+ years,36
+2020-04,Suspected Suicide Attempts,Age,All,198
+2020-03,Suspected Suicide Attempts,Age,12-17 years,771
+2020-03,Suspected Suicide Attempts,Age,18-34 years,233
+2020-03,Suspected Suicide Attempts,Age,35-64 years,126
+2020-03,Suspected Suicide Attempts,Age,65+ years,32
+2020-03,Suspected Suicide Attempts,Age,All,149
+2020-02,Suspected Suicide Attempts,Age,12-17 years,635
+2020-02,Suspected Suicide Attempts,Age,18-34 years,233
+2020-02,Suspected Suicide Attempts,Age,35-64 years,119
+2020-02,Suspected Suicide Attempts,Age,65+ years,27
+2020-02,Suspected Suicide Attempts,Age,All,140
+2020-01,Suspected Suicide Attempts,Age,12-17 years,605
+2020-01,Suspected Suicide Attempts,Age,18-34 years,219
+2020-01,Suspected Suicide Attempts,Age,35-64 years,116
+2020-01,Suspected Suicide Attempts,Age,65+ years,25
+2020-01,Suspected Suicide Attempts,Age,All,133
+2019-12,Suspected Suicide Attempts,Age,12-17 years,526
+2019-12,Suspected Suicide Attempts,Age,18-34 years,215
+2019-12,Suspected Suicide Attempts,Age,35-64 years,116
+2019-12,Suspected Suicide Attempts,Age,65+ years,24
+2019-12,Suspected Suicide Attempts,Age,All,123
+2019-11,Suspected Suicide Attempts,Age,12-17 years,573
+2019-11,Suspected Suicide Attempts,Age,18-34 years,230
+2019-11,Suspected Suicide Attempts,Age,35-64 years,123
+2019-11,Suspected Suicide Attempts,Age,65+ years,24
+2019-11,Suspected Suicide Attempts,Age,All,134
+2019-10,Suspected Suicide Attempts,Age,12-17 years,565
+2019-10,Suspected Suicide Attempts,Age,18-34 years,225
+2019-10,Suspected Suicide Attempts,Age,35-64 years,120
+2019-10,Suspected Suicide Attempts,Age,65+ years,26
+2019-10,Suspected Suicide Attempts,Age,All,137
+2019-09,Suspected Suicide Attempts,Age,12-17 years,479
+2019-09,Suspected Suicide Attempts,Age,18-34 years,221
+2019-09,Suspected Suicide Attempts,Age,35-64 years,123
+2019-09,Suspected Suicide Attempts,Age,65+ years,27
+2019-09,Suspected Suicide Attempts,Age,All,134
+2019-08,Suspected Suicide Attempts,Age,12-17 years,444
+2019-08,Suspected Suicide Attempts,Age,18-34 years,222
+2019-08,Suspected Suicide Attempts,Age,35-64 years,125
+2019-08,Suspected Suicide Attempts,Age,65+ years,28
+2019-08,Suspected Suicide Attempts,Age,All,132
+2019-07,Suspected Suicide Attempts,Age,12-17 years,478
+2019-07,Suspected Suicide Attempts,Age,18-34 years,211
+2019-07,Suspected Suicide Attempts,Age,35-64 years,121
+2019-07,Suspected Suicide Attempts,Age,65+ years,26
+2019-07,Suspected Suicide Attempts,Age,All,127
+2019-06,Suspected Suicide Attempts,Age,12-17 years,501
+2019-06,Suspected Suicide Attempts,Age,18-34 years,217
+2019-06,Suspected Suicide Attempts,Age,35-64 years,122
+2019-06,Suspected Suicide Attempts,Age,65+ years,25
+2019-06,Suspected Suicide Attempts,Age,All,128
+2019-05,Suspected Suicide Attempts,Age,12-17 years,544
+2019-05,Suspected Suicide Attempts,Age,18-34 years,207
+2019-05,Suspected Suicide Attempts,Age,35-64 years,118
+2019-05,Suspected Suicide Attempts,Age,65+ years,26
+2019-05,Suspected Suicide Attempts,Age,All,129
+2019-04,Suspected Suicide Attempts,Age,12-17 years,552
+2019-04,Suspected Suicide Attempts,Age,18-34 years,209
+2019-04,Suspected Suicide Attempts,Age,35-64 years,115
+2019-04,Suspected Suicide Attempts,Age,65+ years,24
+2019-04,Suspected Suicide Attempts,Age,All,128
+2019-03,Suspected Suicide Attempts,Age,12-17 years,533
+2019-03,Suspected Suicide Attempts,Age,18-34 years,198
+2019-03,Suspected Suicide Attempts,Age,35-64 years,113
+2019-03,Suspected Suicide Attempts,Age,65+ years,22
+2019-03,Suspected Suicide Attempts,Age,All,122
+2019-02,Suspected Suicide Attempts,Age,12-17 years,561
+2019-02,Suspected Suicide Attempts,Age,18-34 years,213
+2019-02,Suspected Suicide Attempts,Age,35-64 years,110
+2019-02,Suspected Suicide Attempts,Age,65+ years,24
+2019-02,Suspected Suicide Attempts,Age,All,127
+2019-01,Suspected Suicide Attempts,Age,12-17 years,547
+2019-01,Suspected Suicide Attempts,Age,18-34 years,199
+2019-01,Suspected Suicide Attempts,Age,35-64 years,107
+2019-01,Suspected Suicide Attempts,Age,65+ years,23
+2019-01,Suspected Suicide Attempts,Age,All,121
+2025-12,Trauma and Stressor-related Disorders,Age,12-17 years,776
+2025-12,Trauma and Stressor-related Disorders,Age,18-34 years,433
+2025-12,Trauma and Stressor-related Disorders,Age,35-64 years,471
+2025-12,Trauma and Stressor-related Disorders,Age,65+ years,239
+2025-12,Trauma and Stressor-related Disorders,Age,All,366
+2025-11,Trauma and Stressor-related Disorders,Age,12-17 years,961
+2025-11,Trauma and Stressor-related Disorders,Age,18-34 years,499
+2025-11,Trauma and Stressor-related Disorders,Age,35-64 years,525
+2025-11,Trauma and Stressor-related Disorders,Age,65+ years,264
+2025-11,Trauma and Stressor-related Disorders,Age,All,423
+2025-10,Trauma and Stressor-related Disorders,Age,12-17 years,982
+2025-10,Trauma and Stressor-related Disorders,Age,18-34 years,504
+2025-10,Trauma and Stressor-related Disorders,Age,35-64 years,522
+2025-10,Trauma and Stressor-related Disorders,Age,65+ years,257
+2025-10,Trauma and Stressor-related Disorders,Age,All,429
+2025-09,Trauma and Stressor-related Disorders,Age,12-17 years,883
+2025-09,Trauma and Stressor-related Disorders,Age,18-34 years,502
+2025-09,Trauma and Stressor-related Disorders,Age,35-64 years,511
+2025-09,Trauma and Stressor-related Disorders,Age,65+ years,255
+2025-09,Trauma and Stressor-related Disorders,Age,All,420
+2025-08,Trauma and Stressor-related Disorders,Age,12-17 years,798
+2025-08,Trauma and Stressor-related Disorders,Age,18-34 years,490
+2025-08,Trauma and Stressor-related Disorders,Age,35-64 years,506
+2025-08,Trauma and Stressor-related Disorders,Age,65+ years,255
+2025-08,Trauma and Stressor-related Disorders,Age,All,409
+2025-07,Trauma and Stressor-related Disorders,Age,12-17 years,906
+2025-07,Trauma and Stressor-related Disorders,Age,18-34 years,502
+2025-07,Trauma and Stressor-related Disorders,Age,35-64 years,506
+2025-07,Trauma and Stressor-related Disorders,Age,65+ years,245
+2025-07,Trauma and Stressor-related Disorders,Age,All,413
+2025-06,Trauma and Stressor-related Disorders,Age,12-17 years,943
+2025-06,Trauma and Stressor-related Disorders,Age,18-34 years,505
+2025-06,Trauma and Stressor-related Disorders,Age,35-64 years,503
+2025-06,Trauma and Stressor-related Disorders,Age,65+ years,247
+2025-06,Trauma and Stressor-related Disorders,Age,All,412
+2025-05,Trauma and Stressor-related Disorders,Age,12-17 years,1000
+2025-05,Trauma and Stressor-related Disorders,Age,18-34 years,511
+2025-05,Trauma and Stressor-related Disorders,Age,35-64 years,506
+2025-05,Trauma and Stressor-related Disorders,Age,65+ years,251
+2025-05,Trauma and Stressor-related Disorders,Age,All,421
+2025-04,Trauma and Stressor-related Disorders,Age,12-17 years,943
+2025-04,Trauma and Stressor-related Disorders,Age,18-34 years,508
+2025-04,Trauma and Stressor-related Disorders,Age,35-64 years,506
+2025-04,Trauma and Stressor-related Disorders,Age,65+ years,254
+2025-04,Trauma and Stressor-related Disorders,Age,All,418
+2025-03,Trauma and Stressor-related Disorders,Age,12-17 years,968
+2025-03,Trauma and Stressor-related Disorders,Age,18-34 years,494
+2025-03,Trauma and Stressor-related Disorders,Age,35-64 years,498
+2025-03,Trauma and Stressor-related Disorders,Age,65+ years,251
+2025-03,Trauma and Stressor-related Disorders,Age,All,411
+2025-02,Trauma and Stressor-related Disorders,Age,12-17 years,780
+2025-02,Trauma and Stressor-related Disorders,Age,18-34 years,454
+2025-02,Trauma and Stressor-related Disorders,Age,35-64 years,469
+2025-02,Trauma and Stressor-related Disorders,Age,65+ years,234
+2025-02,Trauma and Stressor-related Disorders,Age,All,379
+2025-01,Trauma and Stressor-related Disorders,Age,12-17 years,791
+2025-01,Trauma and Stressor-related Disorders,Age,18-34 years,449
+2025-01,Trauma and Stressor-related Disorders,Age,35-64 years,467
+2025-01,Trauma and Stressor-related Disorders,Age,65+ years,236
+2025-01,Trauma and Stressor-related Disorders,Age,All,372
+2024-12,Trauma and Stressor-related Disorders,Age,12-17 years,740
+2024-12,Trauma and Stressor-related Disorders,Age,18-34 years,446
+2024-12,Trauma and Stressor-related Disorders,Age,35-64 years,460
+2024-12,Trauma and Stressor-related Disorders,Age,65+ years,233
+2024-12,Trauma and Stressor-related Disorders,Age,All,358
+2024-11,Trauma and Stressor-related Disorders,Age,12-17 years,820
+2024-11,Trauma and Stressor-related Disorders,Age,18-34 years,507
+2024-11,Trauma and Stressor-related Disorders,Age,35-64 years,520
+2024-11,Trauma and Stressor-related Disorders,Age,65+ years,243
+2024-11,Trauma and Stressor-related Disorders,Age,All,407
+2024-10,Trauma and Stressor-related Disorders,Age,12-17 years,861
+2024-10,Trauma and Stressor-related Disorders,Age,18-34 years,498
+2024-10,Trauma and Stressor-related Disorders,Age,35-64 years,501
+2024-10,Trauma and Stressor-related Disorders,Age,65+ years,234
+2024-10,Trauma and Stressor-related Disorders,Age,All,407
+2024-09,Trauma and Stressor-related Disorders,Age,12-17 years,811
+2024-09,Trauma and Stressor-related Disorders,Age,18-34 years,498
+2024-09,Trauma and Stressor-related Disorders,Age,35-64 years,494
+2024-09,Trauma and Stressor-related Disorders,Age,65+ years,237
+2024-09,Trauma and Stressor-related Disorders,Age,All,404
+2024-08,Trauma and Stressor-related Disorders,Age,12-17 years,742
+2024-08,Trauma and Stressor-related Disorders,Age,18-34 years,496
+2024-08,Trauma and Stressor-related Disorders,Age,35-64 years,495
+2024-08,Trauma and Stressor-related Disorders,Age,65+ years,238
+2024-08,Trauma and Stressor-related Disorders,Age,All,399
+2024-07,Trauma and Stressor-related Disorders,Age,12-17 years,781
+2024-07,Trauma and Stressor-related Disorders,Age,18-34 years,492
+2024-07,Trauma and Stressor-related Disorders,Age,35-64 years,487
+2024-07,Trauma and Stressor-related Disorders,Age,65+ years,229
+2024-07,Trauma and Stressor-related Disorders,Age,All,394
+2024-06,Trauma and Stressor-related Disorders,Age,12-17 years,798
+2024-06,Trauma and Stressor-related Disorders,Age,18-34 years,494
+2024-06,Trauma and Stressor-related Disorders,Age,35-64 years,488
+2024-06,Trauma and Stressor-related Disorders,Age,65+ years,237
+2024-06,Trauma and Stressor-related Disorders,Age,All,396
+2024-05,Trauma and Stressor-related Disorders,Age,12-17 years,869
+2024-05,Trauma and Stressor-related Disorders,Age,18-34 years,492
+2024-05,Trauma and Stressor-related Disorders,Age,35-64 years,482
+2024-05,Trauma and Stressor-related Disorders,Age,65+ years,232
+2024-05,Trauma and Stressor-related Disorders,Age,All,395
+2024-04,Trauma and Stressor-related Disorders,Age,12-17 years,846
+2024-04,Trauma and Stressor-related Disorders,Age,18-34 years,501
+2024-04,Trauma and Stressor-related Disorders,Age,35-64 years,483
+2024-04,Trauma and Stressor-related Disorders,Age,65+ years,235
+2024-04,Trauma and Stressor-related Disorders,Age,All,398
+2024-03,Trauma and Stressor-related Disorders,Age,12-17 years,858
+2024-03,Trauma and Stressor-related Disorders,Age,18-34 years,490
+2024-03,Trauma and Stressor-related Disorders,Age,35-64 years,488
+2024-03,Trauma and Stressor-related Disorders,Age,65+ years,232
+2024-03,Trauma and Stressor-related Disorders,Age,All,393
+2024-02,Trauma and Stressor-related Disorders,Age,12-17 years,829
+2024-02,Trauma and Stressor-related Disorders,Age,18-34 years,487
+2024-02,Trauma and Stressor-related Disorders,Age,35-64 years,490
+2024-02,Trauma and Stressor-related Disorders,Age,65+ years,233
+2024-02,Trauma and Stressor-related Disorders,Age,All,394
+2024-01,Trauma and Stressor-related Disorders,Age,12-17 years,849
+2024-01,Trauma and Stressor-related Disorders,Age,18-34 years,476
+2024-01,Trauma and Stressor-related Disorders,Age,35-64 years,472
+2024-01,Trauma and Stressor-related Disorders,Age,65+ years,229
+2024-01,Trauma and Stressor-related Disorders,Age,All,385
+2023-12,Trauma and Stressor-related Disorders,Age,12-17 years,730
+2023-12,Trauma and Stressor-related Disorders,Age,18-34 years,443
+2023-12,Trauma and Stressor-related Disorders,Age,35-64 years,444
+2023-12,Trauma and Stressor-related Disorders,Age,65+ years,210
+2023-12,Trauma and Stressor-related Disorders,Age,All,343
+2023-11,Trauma and Stressor-related Disorders,Age,12-17 years,837
+2023-11,Trauma and Stressor-related Disorders,Age,18-34 years,488
+2023-11,Trauma and Stressor-related Disorders,Age,35-64 years,482
+2023-11,Trauma and Stressor-related Disorders,Age,65+ years,223
+2023-11,Trauma and Stressor-related Disorders,Age,All,381
+2023-10,Trauma and Stressor-related Disorders,Age,12-17 years,889
+2023-10,Trauma and Stressor-related Disorders,Age,18-34 years,503
+2023-10,Trauma and Stressor-related Disorders,Age,35-64 years,504
+2023-10,Trauma and Stressor-related Disorders,Age,65+ years,231
+2023-10,Trauma and Stressor-related Disorders,Age,All,406
+2023-09,Trauma and Stressor-related Disorders,Age,12-17 years,771
+2023-09,Trauma and Stressor-related Disorders,Age,18-34 years,496
+2023-09,Trauma and Stressor-related Disorders,Age,35-64 years,490
+2023-09,Trauma and Stressor-related Disorders,Age,65+ years,237
+2023-09,Trauma and Stressor-related Disorders,Age,All,399
+2023-08,Trauma and Stressor-related Disorders,Age,12-17 years,707
+2023-08,Trauma and Stressor-related Disorders,Age,18-34 years,505
+2023-08,Trauma and Stressor-related Disorders,Age,35-64 years,490
+2023-08,Trauma and Stressor-related Disorders,Age,65+ years,233
+2023-08,Trauma and Stressor-related Disorders,Age,All,397
+2023-07,Trauma and Stressor-related Disorders,Age,12-17 years,763
+2023-07,Trauma and Stressor-related Disorders,Age,18-34 years,510
+2023-07,Trauma and Stressor-related Disorders,Age,35-64 years,501
+2023-07,Trauma and Stressor-related Disorders,Age,65+ years,225
+2023-07,Trauma and Stressor-related Disorders,Age,All,402
+2023-06,Trauma and Stressor-related Disorders,Age,12-17 years,819
+2023-06,Trauma and Stressor-related Disorders,Age,18-34 years,515
+2023-06,Trauma and Stressor-related Disorders,Age,35-64 years,500
+2023-06,Trauma and Stressor-related Disorders,Age,65+ years,239
+2023-06,Trauma and Stressor-related Disorders,Age,All,406
+2023-05,Trauma and Stressor-related Disorders,Age,12-17 years,939
+2023-05,Trauma and Stressor-related Disorders,Age,18-34 years,520
+2023-05,Trauma and Stressor-related Disorders,Age,35-64 years,505
+2023-05,Trauma and Stressor-related Disorders,Age,65+ years,232
+2023-05,Trauma and Stressor-related Disorders,Age,All,413
+2023-04,Trauma and Stressor-related Disorders,Age,12-17 years,918
+2023-04,Trauma and Stressor-related Disorders,Age,18-34 years,520
+2023-04,Trauma and Stressor-related Disorders,Age,35-64 years,508
+2023-04,Trauma and Stressor-related Disorders,Age,65+ years,239
+2023-04,Trauma and Stressor-related Disorders,Age,All,413
+2023-03,Trauma and Stressor-related Disorders,Age,12-17 years,1032
+2023-03,Trauma and Stressor-related Disorders,Age,18-34 years,521
+2023-03,Trauma and Stressor-related Disorders,Age,35-64 years,507
+2023-03,Trauma and Stressor-related Disorders,Age,65+ years,232
+2023-03,Trauma and Stressor-related Disorders,Age,All,419
+2023-02,Trauma and Stressor-related Disorders,Age,12-17 years,977
+2023-02,Trauma and Stressor-related Disorders,Age,18-34 years,536
+2023-02,Trauma and Stressor-related Disorders,Age,35-64 years,506
+2023-02,Trauma and Stressor-related Disorders,Age,65+ years,237
+2023-02,Trauma and Stressor-related Disorders,Age,All,420
+2023-01,Trauma and Stressor-related Disorders,Age,12-17 years,979
+2023-01,Trauma and Stressor-related Disorders,Age,18-34 years,518
+2023-01,Trauma and Stressor-related Disorders,Age,35-64 years,501
+2023-01,Trauma and Stressor-related Disorders,Age,65+ years,236
+2023-01,Trauma and Stressor-related Disorders,Age,All,417
+2022-12,Trauma and Stressor-related Disorders,Age,12-17 years,755
+2022-12,Trauma and Stressor-related Disorders,Age,18-34 years,468
+2022-12,Trauma and Stressor-related Disorders,Age,35-64 years,454
+2022-12,Trauma and Stressor-related Disorders,Age,65+ years,216
+2022-12,Trauma and Stressor-related Disorders,Age,All,357
+2022-11,Trauma and Stressor-related Disorders,Age,12-17 years,734
+2022-11,Trauma and Stressor-related Disorders,Age,18-34 years,459
+2022-11,Trauma and Stressor-related Disorders,Age,35-64 years,458
+2022-11,Trauma and Stressor-related Disorders,Age,65+ years,224
+2022-11,Trauma and Stressor-related Disorders,Age,All,353
+2022-10,Trauma and Stressor-related Disorders,Age,12-17 years,802
+2022-10,Trauma and Stressor-related Disorders,Age,18-34 years,500
+2022-10,Trauma and Stressor-related Disorders,Age,35-64 years,474
+2022-10,Trauma and Stressor-related Disorders,Age,65+ years,223
+2022-10,Trauma and Stressor-related Disorders,Age,All,377
+2022-09,Trauma and Stressor-related Disorders,Age,12-17 years,762
+2022-09,Trauma and Stressor-related Disorders,Age,18-34 years,503
+2022-09,Trauma and Stressor-related Disorders,Age,35-64 years,487
+2022-09,Trauma and Stressor-related Disorders,Age,65+ years,227
+2022-09,Trauma and Stressor-related Disorders,Age,All,390
+2022-08,Trauma and Stressor-related Disorders,Age,12-17 years,688
+2022-08,Trauma and Stressor-related Disorders,Age,18-34 years,504
+2022-08,Trauma and Stressor-related Disorders,Age,35-64 years,475
+2022-08,Trauma and Stressor-related Disorders,Age,65+ years,223
+2022-08,Trauma and Stressor-related Disorders,Age,All,385
+2022-07,Trauma and Stressor-related Disorders,Age,12-17 years,735
+2022-07,Trauma and Stressor-related Disorders,Age,18-34 years,489
+2022-07,Trauma and Stressor-related Disorders,Age,35-64 years,470
+2022-07,Trauma and Stressor-related Disorders,Age,65+ years,214
+2022-07,Trauma and Stressor-related Disorders,Age,All,379
+2022-06,Trauma and Stressor-related Disorders,Age,12-17 years,860
+2022-06,Trauma and Stressor-related Disorders,Age,18-34 years,504
+2022-06,Trauma and Stressor-related Disorders,Age,35-64 years,475
+2022-06,Trauma and Stressor-related Disorders,Age,65+ years,227
+2022-06,Trauma and Stressor-related Disorders,Age,All,391
+2022-05,Trauma and Stressor-related Disorders,Age,12-17 years,898
+2022-05,Trauma and Stressor-related Disorders,Age,18-34 years,510
+2022-05,Trauma and Stressor-related Disorders,Age,35-64 years,487
+2022-05,Trauma and Stressor-related Disorders,Age,65+ years,216
+2022-05,Trauma and Stressor-related Disorders,Age,All,398
+2022-04,Trauma and Stressor-related Disorders,Age,12-17 years,883
+2022-04,Trauma and Stressor-related Disorders,Age,18-34 years,523
+2022-04,Trauma and Stressor-related Disorders,Age,35-64 years,510
+2022-04,Trauma and Stressor-related Disorders,Age,65+ years,228
+2022-04,Trauma and Stressor-related Disorders,Age,All,415
+2022-03,Trauma and Stressor-related Disorders,Age,12-17 years,1054
+2022-03,Trauma and Stressor-related Disorders,Age,18-34 years,544
+2022-03,Trauma and Stressor-related Disorders,Age,35-64 years,527
+2022-03,Trauma and Stressor-related Disorders,Age,65+ years,231
+2022-03,Trauma and Stressor-related Disorders,Age,All,441
+2022-02,Trauma and Stressor-related Disorders,Age,12-17 years,1121
+2022-02,Trauma and Stressor-related Disorders,Age,18-34 years,573
+2022-02,Trauma and Stressor-related Disorders,Age,35-64 years,529
+2022-02,Trauma and Stressor-related Disorders,Age,65+ years,234
+2022-02,Trauma and Stressor-related Disorders,Age,All,454
+2022-01,Trauma and Stressor-related Disorders,Age,12-17 years,810
+2022-01,Trauma and Stressor-related Disorders,Age,18-34 years,449
+2022-01,Trauma and Stressor-related Disorders,Age,35-64 years,432
+2022-01,Trauma and Stressor-related Disorders,Age,65+ years,216
+2022-01,Trauma and Stressor-related Disorders,Age,All,368
+2021-12,Trauma and Stressor-related Disorders,Age,12-17 years,861
+2021-12,Trauma and Stressor-related Disorders,Age,18-34 years,422
+2021-12,Trauma and Stressor-related Disorders,Age,35-64 years,428
+2021-12,Trauma and Stressor-related Disorders,Age,65+ years,200
+2021-12,Trauma and Stressor-related Disorders,Age,All,351
+2021-11,Trauma and Stressor-related Disorders,Age,12-17 years,917
+2021-11,Trauma and Stressor-related Disorders,Age,18-34 years,509
+2021-11,Trauma and Stressor-related Disorders,Age,35-64 years,477
+2021-11,Trauma and Stressor-related Disorders,Age,65+ years,216
+2021-11,Trauma and Stressor-related Disorders,Age,All,396
+2021-10,Trauma and Stressor-related Disorders,Age,12-17 years,897
+2021-10,Trauma and Stressor-related Disorders,Age,18-34 years,523
+2021-10,Trauma and Stressor-related Disorders,Age,35-64 years,498
+2021-10,Trauma and Stressor-related Disorders,Age,65+ years,226
+2021-10,Trauma and Stressor-related Disorders,Age,All,414
+2021-09,Trauma and Stressor-related Disorders,Age,12-17 years,744
+2021-09,Trauma and Stressor-related Disorders,Age,18-34 years,498
+2021-09,Trauma and Stressor-related Disorders,Age,35-64 years,474
+2021-09,Trauma and Stressor-related Disorders,Age,65+ years,219
+2021-09,Trauma and Stressor-related Disorders,Age,All,391
+2021-08,Trauma and Stressor-related Disorders,Age,12-17 years,600
+2021-08,Trauma and Stressor-related Disorders,Age,18-34 years,468
+2021-08,Trauma and Stressor-related Disorders,Age,35-64 years,454
+2021-08,Trauma and Stressor-related Disorders,Age,65+ years,222
+2021-08,Trauma and Stressor-related Disorders,Age,All,368
+2021-07,Trauma and Stressor-related Disorders,Age,12-17 years,737
+2021-07,Trauma and Stressor-related Disorders,Age,18-34 years,497
+2021-07,Trauma and Stressor-related Disorders,Age,35-64 years,485
+2021-07,Trauma and Stressor-related Disorders,Age,65+ years,218
+2021-07,Trauma and Stressor-related Disorders,Age,All,391
+2021-06,Trauma and Stressor-related Disorders,Age,12-17 years,843
+2021-06,Trauma and Stressor-related Disorders,Age,18-34 years,539
+2021-06,Trauma and Stressor-related Disorders,Age,35-64 years,518
+2021-06,Trauma and Stressor-related Disorders,Age,65+ years,232
+2021-06,Trauma and Stressor-related Disorders,Age,All,423
+2021-05,Trauma and Stressor-related Disorders,Age,12-17 years,1020
+2021-05,Trauma and Stressor-related Disorders,Age,18-34 years,550
+2021-05,Trauma and Stressor-related Disorders,Age,35-64 years,523
+2021-05,Trauma and Stressor-related Disorders,Age,65+ years,234
+2021-05,Trauma and Stressor-related Disorders,Age,All,441
+2021-04,Trauma and Stressor-related Disorders,Age,12-17 years,940
+2021-04,Trauma and Stressor-related Disorders,Age,18-34 years,548
+2021-04,Trauma and Stressor-related Disorders,Age,35-64 years,521
+2021-04,Trauma and Stressor-related Disorders,Age,65+ years,238
+2021-04,Trauma and Stressor-related Disorders,Age,All,443
+2021-03,Trauma and Stressor-related Disorders,Age,12-17 years,1046
+2021-03,Trauma and Stressor-related Disorders,Age,18-34 years,597
+2021-03,Trauma and Stressor-related Disorders,Age,35-64 years,558
+2021-03,Trauma and Stressor-related Disorders,Age,65+ years,243
+2021-03,Trauma and Stressor-related Disorders,Age,All,477
+2021-02,Trauma and Stressor-related Disorders,Age,12-17 years,1157
+2021-02,Trauma and Stressor-related Disorders,Age,18-34 years,629
+2021-02,Trauma and Stressor-related Disorders,Age,35-64 years,568
+2021-02,Trauma and Stressor-related Disorders,Age,65+ years,245
+2021-02,Trauma and Stressor-related Disorders,Age,All,497
+2021-01,Trauma and Stressor-related Disorders,Age,12-17 years,1071
+2021-01,Trauma and Stressor-related Disorders,Age,18-34 years,583
+2021-01,Trauma and Stressor-related Disorders,Age,35-64 years,536
+2021-01,Trauma and Stressor-related Disorders,Age,65+ years,238
+2021-01,Trauma and Stressor-related Disorders,Age,All,469
+2020-12,Trauma and Stressor-related Disorders,Age,12-17 years,1003
+2020-12,Trauma and Stressor-related Disorders,Age,18-34 years,567
+2020-12,Trauma and Stressor-related Disorders,Age,35-64 years,516
+2020-12,Trauma and Stressor-related Disorders,Age,65+ years,222
+2020-12,Trauma and Stressor-related Disorders,Age,All,445
+2020-11,Trauma and Stressor-related Disorders,Age,12-17 years,1006
+2020-11,Trauma and Stressor-related Disorders,Age,18-34 years,568
+2020-11,Trauma and Stressor-related Disorders,Age,35-64 years,526
+2020-11,Trauma and Stressor-related Disorders,Age,65+ years,230
+2020-11,Trauma and Stressor-related Disorders,Age,All,455
+2020-10,Trauma and Stressor-related Disorders,Age,12-17 years,1000
+2020-10,Trauma and Stressor-related Disorders,Age,18-34 years,603
+2020-10,Trauma and Stressor-related Disorders,Age,35-64 years,560
+2020-10,Trauma and Stressor-related Disorders,Age,65+ years,238
+2020-10,Trauma and Stressor-related Disorders,Age,All,483
+2020-09,Trauma and Stressor-related Disorders,Age,12-17 years,947
+2020-09,Trauma and Stressor-related Disorders,Age,18-34 years,624
+2020-09,Trauma and Stressor-related Disorders,Age,35-64 years,587
+2020-09,Trauma and Stressor-related Disorders,Age,65+ years,242
+2020-09,Trauma and Stressor-related Disorders,Age,All,496
+2020-08,Trauma and Stressor-related Disorders,Age,12-17 years,858
+2020-08,Trauma and Stressor-related Disorders,Age,18-34 years,634
+2020-08,Trauma and Stressor-related Disorders,Age,35-64 years,605
+2020-08,Trauma and Stressor-related Disorders,Age,65+ years,257
+2020-08,Trauma and Stressor-related Disorders,Age,All,506
+2020-07,Trauma and Stressor-related Disorders,Age,12-17 years,840
+2020-07,Trauma and Stressor-related Disorders,Age,18-34 years,601
+2020-07,Trauma and Stressor-related Disorders,Age,35-64 years,587
+2020-07,Trauma and Stressor-related Disorders,Age,65+ years,254
+2020-07,Trauma and Stressor-related Disorders,Age,All,492
+2020-06,Trauma and Stressor-related Disorders,Age,12-17 years,907
+2020-06,Trauma and Stressor-related Disorders,Age,18-34 years,645
+2020-06,Trauma and Stressor-related Disorders,Age,35-64 years,614
+2020-06,Trauma and Stressor-related Disorders,Age,65+ years,250
+2020-06,Trauma and Stressor-related Disorders,Age,All,514
+2020-05,Trauma and Stressor-related Disorders,Age,12-17 years,1087
+2020-05,Trauma and Stressor-related Disorders,Age,18-34 years,710
+2020-05,Trauma and Stressor-related Disorders,Age,35-64 years,642
+2020-05,Trauma and Stressor-related Disorders,Age,65+ years,263
+2020-05,Trauma and Stressor-related Disorders,Age,All,549
+2020-04,Trauma and Stressor-related Disorders,Age,12-17 years,1274
+2020-04,Trauma and Stressor-related Disorders,Age,18-34 years,724
+2020-04,Trauma and Stressor-related Disorders,Age,35-64 years,632
+2020-04,Trauma and Stressor-related Disorders,Age,65+ years,262
+2020-04,Trauma and Stressor-related Disorders,Age,All,555
+2020-03,Trauma and Stressor-related Disorders,Age,12-17 years,992
+2020-03,Trauma and Stressor-related Disorders,Age,18-34 years,563
+2020-03,Trauma and Stressor-related Disorders,Age,35-64 years,547
+2020-03,Trauma and Stressor-related Disorders,Age,65+ years,232
+2020-03,Trauma and Stressor-related Disorders,Age,All,455
+2020-02,Trauma and Stressor-related Disorders,Age,12-17 years,842
+2020-02,Trauma and Stressor-related Disorders,Age,18-34 years,579
+2020-02,Trauma and Stressor-related Disorders,Age,35-64 years,563
+2020-02,Trauma and Stressor-related Disorders,Age,65+ years,229
+2020-02,Trauma and Stressor-related Disorders,Age,All,446
+2020-01,Trauma and Stressor-related Disorders,Age,12-17 years,815
+2020-01,Trauma and Stressor-related Disorders,Age,18-34 years,545
+2020-01,Trauma and Stressor-related Disorders,Age,35-64 years,544
+2020-01,Trauma and Stressor-related Disorders,Age,65+ years,219
+2020-01,Trauma and Stressor-related Disorders,Age,All,425
+2019-12,Trauma and Stressor-related Disorders,Age,12-17 years,758
+2019-12,Trauma and Stressor-related Disorders,Age,18-34 years,532
+2019-12,Trauma and Stressor-related Disorders,Age,35-64 years,537
+2019-12,Trauma and Stressor-related Disorders,Age,65+ years,220
+2019-12,Trauma and Stressor-related Disorders,Age,All,405
+2019-11,Trauma and Stressor-related Disorders,Age,12-17 years,857
+2019-11,Trauma and Stressor-related Disorders,Age,18-34 years,577
+2019-11,Trauma and Stressor-related Disorders,Age,35-64 years,560
+2019-11,Trauma and Stressor-related Disorders,Age,65+ years,225
+2019-11,Trauma and Stressor-related Disorders,Age,All,439
+2019-10,Trauma and Stressor-related Disorders,Age,12-17 years,867
+2019-10,Trauma and Stressor-related Disorders,Age,18-34 years,589
+2019-10,Trauma and Stressor-related Disorders,Age,35-64 years,567
+2019-10,Trauma and Stressor-related Disorders,Age,65+ years,221
+2019-10,Trauma and Stressor-related Disorders,Age,All,460
+2019-09,Trauma and Stressor-related Disorders,Age,12-17 years,762
+2019-09,Trauma and Stressor-related Disorders,Age,18-34 years,590
+2019-09,Trauma and Stressor-related Disorders,Age,35-64 years,564
+2019-09,Trauma and Stressor-related Disorders,Age,65+ years,231
+2019-09,Trauma and Stressor-related Disorders,Age,All,457
+2019-08,Trauma and Stressor-related Disorders,Age,12-17 years,690
+2019-08,Trauma and Stressor-related Disorders,Age,18-34 years,594
+2019-08,Trauma and Stressor-related Disorders,Age,35-64 years,576
+2019-08,Trauma and Stressor-related Disorders,Age,65+ years,233
+2019-08,Trauma and Stressor-related Disorders,Age,All,458
+2019-07,Trauma and Stressor-related Disorders,Age,12-17 years,637
+2019-07,Trauma and Stressor-related Disorders,Age,18-34 years,564
+2019-07,Trauma and Stressor-related Disorders,Age,35-64 years,552
+2019-07,Trauma and Stressor-related Disorders,Age,65+ years,225
+2019-07,Trauma and Stressor-related Disorders,Age,All,436
+2019-06,Trauma and Stressor-related Disorders,Age,12-17 years,739
+2019-06,Trauma and Stressor-related Disorders,Age,18-34 years,550
+2019-06,Trauma and Stressor-related Disorders,Age,35-64 years,534
+2019-06,Trauma and Stressor-related Disorders,Age,65+ years,211
+2019-06,Trauma and Stressor-related Disorders,Age,All,424
+2019-05,Trauma and Stressor-related Disorders,Age,12-17 years,837
+2019-05,Trauma and Stressor-related Disorders,Age,18-34 years,549
+2019-05,Trauma and Stressor-related Disorders,Age,35-64 years,514
+2019-05,Trauma and Stressor-related Disorders,Age,65+ years,207
+2019-05,Trauma and Stressor-related Disorders,Age,All,423
+2019-04,Trauma and Stressor-related Disorders,Age,12-17 years,794
+2019-04,Trauma and Stressor-related Disorders,Age,18-34 years,552
+2019-04,Trauma and Stressor-related Disorders,Age,35-64 years,528
+2019-04,Trauma and Stressor-related Disorders,Age,65+ years,206
+2019-04,Trauma and Stressor-related Disorders,Age,All,424
+2019-03,Trauma and Stressor-related Disorders,Age,12-17 years,789
+2019-03,Trauma and Stressor-related Disorders,Age,18-34 years,517
+2019-03,Trauma and Stressor-related Disorders,Age,35-64 years,493
+2019-03,Trauma and Stressor-related Disorders,Age,65+ years,193
+2019-03,Trauma and Stressor-related Disorders,Age,All,396
+2019-02,Trauma and Stressor-related Disorders,Age,12-17 years,765
+2019-02,Trauma and Stressor-related Disorders,Age,18-34 years,507
+2019-02,Trauma and Stressor-related Disorders,Age,35-64 years,485
+2019-02,Trauma and Stressor-related Disorders,Age,65+ years,196
+2019-02,Trauma and Stressor-related Disorders,Age,All,389
+2019-01,Trauma and Stressor-related Disorders,Age,12-17 years,715
+2019-01,Trauma and Stressor-related Disorders,Age,18-34 years,465
+2019-01,Trauma and Stressor-related Disorders,Age,35-64 years,456
+2019-01,Trauma and Stressor-related Disorders,Age,65+ years,193
+2019-01,Trauma and Stressor-related Disorders,Age,All,366

@@ -1,7 +1,6 @@
 # Bayesian Ridge Regression for Predicting Climate and Anxiety
 
 **Authors:** Dishi Arun, John Black, Norah O'Callaghan, Rutva Doshi, Suvan Pattanaik
-Biomedical Engineering, Georgia Institute of Technology
 
 ## Overview
 
